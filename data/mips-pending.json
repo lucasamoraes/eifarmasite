@@ -1,0 +1,4558 @@
+[
+  {
+    "ean": "7896331702545",
+    "name": "ABC — 10 MG/G CREM DERM CT BG AL X 20G",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331702545",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331702545",
+    "registration": "1068901530012",
+    "ingredient": "CLOTRIMAZOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095249134",
+    "name": "ABRIFIT — 7 MG/ML XPE CT FR VD AMB X 100 ML + COP ",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095249134",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095249134",
+    "registration": "1542302160011",
+    "ingredient": "HEDERA HELIX L.",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004715292",
+    "name": "ACETILCISTEÍNA — 20 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004715292",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004715292",
+    "registration": "1023513420112",
+    "ingredient": "ACETILCISTEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006210221",
+    "name": "ACETILCISTEÍNA — 20 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006210221",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006210221",
+    "registration": "1049700060055",
+    "ingredient": "ACETILCISTEÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7894916142656",
+    "name": "ACETILCISTEÍNA — 40 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7894916142656",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7894916142656",
+    "registration": "1677306140065",
+    "ingredient": "ACETILCISTEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658007170",
+    "name": "ACHEFLAN — 5 MG/G CREM DERM CT BG PLAS LAM X 60 G",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658007170",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658007170",
+    "registration": "1057303410123",
+    "ingredient": "CORDIA VERBENACEA DC.",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896082900351",
+    "name": "ACNASE — (50,00+20,00) MG/G CREM DERM CT BG AL X 25 G",
+    "brand": "BIOLAB SANUS FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896082900351",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896082900351",
+    "registration": "1097402390049",
+    "ingredient": "ENXOFRE;PERÓXIDO DE BENZOÍLA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094922013",
+    "name": "ALBOCRESIL — 90 MG OVL CT 01 STRIP PLAS PVC/PE OPC X 6",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094922013",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094922013",
+    "registration": "1781709080030",
+    "ingredient": "POLICRESULENO A 36%",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094922006",
+    "name": "ALBOCRESIL — 360 MG/G SOL BUC/DERM/VAG CT FR VD AMB X 12 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094922006",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094922006",
+    "registration": "1781709080014",
+    "ingredient": "POLICRESULENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523201870",
+    "name": "ALERGOMINE — 2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 20",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523201870",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523201870",
+    "registration": "1438102920042",
+    "ingredient": "MALEATO DE DEXCLORFENIRAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898049796502",
+    "name": "ALGY-FLANDERIL — 300 MG COM CT BL AL PLAS PVC TRANS X 20",
+    "brand": "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898049796502",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898049796502",
+    "registration": "1039200650018",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891142115492",
+    "name": "ALIVIUM — 100 MG/ML SUS OR CT FR GOT PLAS PEAD/PEBD OPC X 20 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891142115492",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891142115492",
+    "registration": "1781708070228",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058169015",
+    "name": "ALLEGRA — 180 MG COM REV CT BL AL PLAS TRANS X 10",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058169015",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058169015",
+    "registration": "1862000100133",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058004354",
+    "name": "ALLEGRA — 6 MG/ML SUS OR CT FR PLAS AMB X 150 ML + SER DOS SABOR FRAMBOESA",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058004354",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058004354",
+    "registration": "1862000100044",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058024314",
+    "name": "ALLEGRA — 60 MG COM REV CT BL AL PLAS TRANS X 10",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058024314",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058024314",
+    "registration": "1862000100052",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058004347",
+    "name": "ALLEGRA — 6 MG/ML SUS OR CT FR PLAS AMB X 60 ML + SER DOS SABOR FRAMBOESA",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058004347",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058004347",
+    "registration": "1862000100028",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004770895",
+    "name": "ALLEXOFEDRIN PEDIÁTRICO — 6 MG/ML SUS OR CT FR PLAS PET AMB X 60 ML + SER DOS",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004770895",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004770895",
+    "registration": "1023513270013",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896026173018",
+    "name": "COMPLEXO SENNA ALMEIDA PRADO Nº 46 — 0,005 G + 0,02 G + 0,015 G + 0,015 G COM CT TB PLAS OPC X 60",
+    "brand": "MEGALABS FARMACEUTICA S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896026173018",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896026173018",
+    "registration": "1014300730018",
+    "ingredient": "COMPLEMENTO;CÁSSIA SENNA;PICOSSULFATO DE SÓDIO;POLYGONUM PUNCTATUM H.LÉV",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898100243150",
+    "name": "AMBROL — 6 MG/ML XPE CT FR PLAS PET AMB X 100 ML + COP",
+    "brand": "BRASTERAPICA PHARMACEUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898100243150",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898100243150",
+    "registration": "1003800480074",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898100243143",
+    "name": "AMBROL — 3 MG/ML XPE CT FR PLAS PET AMB X 100 ML + COP",
+    "brand": "BRASTERAPICA PHARMACEUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898100243143",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898100243143",
+    "registration": "1003800480082",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523207667",
+    "name": "AMBROXMEL — 3 MG/ML XPE CT FR PLAS PET AMB X 120 ML + COP (SBR MEL)",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523207667",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523207667",
+    "registration": "1438100870153",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523207681",
+    "name": "AMBROXMEL — 6 MG/ML XPE CT FR PLAS PET AMB X 120 ML + COP (SBR MEL/EUCALIPTO)",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523207681",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523207681",
+    "registration": "1438100870110",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898148293834",
+    "name": "CLORIDRATO DE AMBROXOL — 3 MG/ML XPE CT FR PLAS OPC X 120 ML + COP",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898148293834",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898148293834",
+    "registration": "1256800390087",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898148293858",
+    "name": "CLORIDRATO DE AMBROXOL — 6 MG/ML XPE CT FR PLAS OPC X 120 ML + COP",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898148293858",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898148293858",
+    "registration": "1256800390109",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058003890",
+    "name": "ANADOR — 1 G COM CT BL AL PLAS PVC OPC X 10",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058003890",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058003890",
+    "registration": "1862000060654",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058021665",
+    "name": "ANADOR — 500 MG COM CT BL AL PLAS PVC OPC X 240",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058021665",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058021665",
+    "registration": "1862000060638",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058021603",
+    "name": "ANADOR — 500 MG COM CT BL AL PLAS PVC OPC X 512",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058021603",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058021603",
+    "registration": "1862000060808",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006214007",
+    "name": "ANDRIODERMOL — (40,0 + 150,0 +30,0 + 50,0  + 0,5 ) MG/ML SOL DERM CT FR VD AMB X 50 ML + CGT",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006214007",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006214007",
+    "registration": "1049711520036",
+    "ingredient": "HEXILRESORCINOL;UNDECILENATO DE ZINCO;ÁCIDO UNDECILÊNICO;PROPIONATO DE CÁLCIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891317007256",
+    "name": "ANGINO RUB — 3 MG PAST SBR MEL E LIMÃO CT STR AL X 16",
+    "brand": "EUROFARMA LABORATORIOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317007256",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317007256",
+    "registration": "1004309060018",
+    "ingredient": "CLORIDRATO DE BENZIDAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891317002589",
+    "name": "ANGINO RUB — 3 MG PAST SBR MENTA CT  STR AL X 16 ",
+    "brand": "EUROFARMA LABORATORIOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317002589",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317002589",
+    "registration": "1004309060107",
+    "ingredient": "CLORIDRATO DE BENZIDAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7908020503095",
+    "name": "APETIVITON BC — (0,80 + 0,1346 + 0,205 + 0,1628 + 1,334 + 4,334) MG/ML XPE CT FR PLAS PET AMB X 240 ML + COP",
+    "brand": "CIFARMA CIENTÍFICA FARMACÊUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908020503095",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908020503095",
+    "registration": "1156002590023",
+    "ingredient": "CLORIDRATO DE CIPROEPTADINA;NICOTINAMIDA;ÁCIDO ASCÓRBICO;CLORIDRATO DE PIRIDOXINA;CLORIDRATO DE TIAMINA;FOSFATO SÓDICO DE RIBOFLAVINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004700502",
+    "name": "APEVITIN BC — (0,8 + 0,134 + 0,205 + 0,134 + 1,334 + 4,334) MG/ML  XPE CT FR PLAS PET AMB X 240 ML + COP",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004700502",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004700502",
+    "registration": "1023503280032",
+    "ingredient": "CLORIDRATO DE CIPROEPTADINA;NICOTINAMIDA;ÁCIDO ASCÓRBICO;CLORIDRATO DE PIRIDOXINA;RIBOFLAVINA;CLORIDRATO DE TIAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891104193087",
+    "name": "APRACUR — 1 MG + 100 MG + 50 MG COM REV DISP ENV AL X 150",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891104193087",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891104193087",
+    "registration": "1781707740025",
+    "ingredient": "DIPIRONA;MALEATO DE CLORFENIRAMINA;ÁCIDO ASCÓRBICO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891106000888",
+    "name": "ASPIRINA C EFERVESCENTE — 400 MG + 240 MG COM EFEV CT 50 ENV AL PLAS X 2",
+    "brand": "BAYER S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891106000888",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891106000888",
+    "registration": "1705601050021",
+    "ingredient": "ÁCIDO ASCÓRBICO;ÁCIDO ACETILSALICÍLICO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094915374",
+    "name": "ATROVERAN DIP — 1G COM CT BL AL PLAS TRANS X 10 ",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094915374",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094915374",
+    "registration": "1781708580031",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "5702191025637",
+    "name": "AZELAN — 150 MG/G GEL DERM CT BG AL X 30 G",
+    "brand": "LEO PHARMA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/5702191025637",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/5702191025637",
+    "registration": "1856900120055",
+    "ingredient": "ÁCIDO AZELAICO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917000826",
+    "name": "BACINA — (5 MG + 250 UI)/G POM DERM CT BG AL X 15 G",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917000826",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917000826",
+    "registration": "1057100820017",
+    "ingredient": "SULFATO DE NEOMICINA;BACITRACINA ZÍNCICA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917002646",
+    "name": "BACINA — (5 MG + 250 UI)/G POM DERM CT BG AL X 10 G",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917002646",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917002646",
+    "registration": "1057100820025",
+    "ingredient": "SULFATO DE NEOMICINA;BACITRACINA ZÍNCICA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004754130",
+    "name": "BALSAMO BENGUE — (10 + 50) MG/G SOL AER TOP FILME PLAS TB AL X 120 G",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004754130",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004754130",
+    "registration": "1023510670101",
+    "ingredient": "MENTOL;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004726793",
+    "name": "BALSAMO BENGUE — (10 + 50) MG/G SOL AER TOP FILME PLAS TB AL X 60 G",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004726793",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004726793",
+    "registration": "1023510670053",
+    "ingredient": "MENTOL;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004753638",
+    "name": "BALSAMO BENGUE — (0,100 + 0,150) G/G GEL CT BG AL X 60 G",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004753638",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004753638",
+    "registration": "1023510670096",
+    "ingredient": "MENTOL;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004817569",
+    "name": "BALSAMO BENGUE — (0,250 + 0,250) G/G POM DERM CT BG AL X 20 G",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004817569",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004817569",
+    "registration": "1023510670010",
+    "ingredient": "MENTOL;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004753621",
+    "name": "BALSAMO BENGUE — (0,250 + 0,250) G/G POM DERM CT BG AL X 60 G",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004753621",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004753621",
+    "registration": "1023510670071",
+    "ingredient": "MENTOL;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917001397",
+    "name": "BELSPAN — 250 MG + 10 MG COM REV CT BL AL PLAS TRANS X 20",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917001397",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917001397",
+    "registration": "1057101070011",
+    "ingredient": "DIPIRONA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917001380",
+    "name": "BELSPAN — 333,4 MG/ML + 6,67 MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML ",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917001380",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917001380",
+    "registration": "1057101070089",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094915107",
+    "name": "BENEGRIP — 250 MG + 30 MG (VERDE) / 250 MG + 2 MG (AMARELO) COM REV CT  BL AL PLAS TRANS X 6 VERD + 6 AMAR",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094915107",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094915107",
+    "registration": "1781700920079",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094904682",
+    "name": "BENEGRIP — 250 MG + 30 MG (VERDE) / 250 MG + 2 MG (AMARELO) COM REV BL AL PLAS TRANS X 10 VERD + 10 AMAR",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094904682",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094904682",
+    "registration": "1781700920044",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094903036",
+    "name": "BENEGRIP — 250 MG + 30 MG (VERDE) / 250 MG + 2 MG (AMARELO) COM REV CT BL AL PLAS TRANS X 75 VERD + 75 AMAR",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094903036",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094903036",
+    "registration": "1781700920036",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094905825",
+    "name": "BENEGRIP MULTI — (13,30 + 0,33 + 0,13) MG/ML SOL OR FR PLAS TRANS X 240 ML + COP",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094905825",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094905825",
+    "registration": "1781707680014",
+    "ingredient": "MALEATO DE CARBINOXAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7895858017385",
+    "name": "BENESTARE — 625 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30",
+    "brand": "ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7895858017385",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7895858017385",
+    "registration": "1376401840020",
+    "ingredient": "POLICARBOFILA  CÁLCICA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523210797",
+    "name": "BEPANTRIZ — 50 MG/G POM DERM CT BG PLAS AL OPC X 30 G",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523210797",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523210797",
+    "registration": "1438101330047",
+    "ingredient": "DEXPANTENOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006229988",
+    "name": "BIO-C — 200 MG/ML SOL OR CT FR GOT VD AMB X 20 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006229988",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006229988",
+    "registration": "1049702470048",
+    "ingredient": "ÁCIDO ASCÓRBICO",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006297970",
+    "name": "BIOGRIPE — (400 + 4 + 4) MG CAP DURA CT BL AL PLAS PVC TRANS X 10",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006297970",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006297970",
+    "registration": "1049714520029",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006257929",
+    "name": "BISALAX — 5 MG COM REV LIB RETARD CT BL AL PLAS PVC TRANS X 20",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006257929",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006257929",
+    "registration": "1049711680017",
+    "ingredient": "BISACODIL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898216360147",
+    "name": "CLORIDRATO DE BROMEXINA — 0,8 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "brand": "PHARLAB INDÚSTRIA FARMACÊUTICA S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898216360147",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898216360147",
+    "registration": "1410701330013",
+    "ingredient": "CLORIDRATO DE BROMEXINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898216360178",
+    "name": "CLORIDRATO DE BROMEXINA — 1,6 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "brand": "PHARLAB INDÚSTRIA FARMACÊUTICA S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898216360178",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898216360178",
+    "registration": "1410701330031",
+    "ingredient": "CLORIDRATO DE BROMEXINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714293370",
+    "name": "MALEATO DE BRONFENIRAMINA + CLORIDRATO DE FENILEFRINA — (2 + 2,5) MG/ML SOL GOT OR CT FR GOT PLAS PEAD/PEBD OPC X 20 ML",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714293370",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714293370",
+    "registration": "1558406570026",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714295077",
+    "name": "MALEATO DE BRONFENIRAMINA + CLORIDRATO DE FENILEFRINA — (12 + 15) MG COM REV LIB PROL CT BL AL PLAS PVC/PE/PVDC TRANS X 12",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714295077",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714295077",
+    "registration": "1558406510023",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714293387",
+    "name": "MALEATO DE BRONFENIRAMINA + CLORIDRATO DE FENILEFRINA — (0,4 + 1) MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714293387",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714293387",
+    "registration": "1558406460034",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898133135941",
+    "name": "BRONQTRAT — 3 MG/ML XPE CT FR PLAS AMB X 100 ML + COP",
+    "brand": "NATULAB LABORATORIO S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898133135941",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898133135941",
+    "registration": "1384100230097",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094921412",
+    "name": "BUSCODUO — (10,0 + 500,0) MG COM REV CT BL AL PLAS PVC TRANS X 20 ",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094921412",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094921412",
+    "registration": "1781708890055",
+    "ingredient": "PARACETAMOL;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094921344",
+    "name": "BUSCOFEM — 400 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 10",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094921344",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094921344",
+    "registration": "1781708920035",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094929753",
+    "name": "BUSCOFEM GIRLS — 200 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 10",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094929753",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094929753",
+    "registration": "1781709680011",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094921429",
+    "name": "BUSCOPAN — 10 MG DRG CT BL AL PLAS PVC/PVDC OPC X 20",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094921429",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094921429",
+    "registration": "1781708900115",
+    "ingredient": "BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094921399",
+    "name": "BUSCOPAN COMPOSTO — (10,0 + 250,0) MG COM REV CT BL AL PLAS PVC TRANS X 20",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094921399",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094921399",
+    "registration": "1781708910048",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094931299",
+    "name": "BUSCOPAN COMPOSTO — 6,67 MG/ML + 333,4 MG/ML SOL OR  FR GOT  PLAS  AMB X 20 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094931299",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094931299",
+    "registration": "1781709720013",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094930001",
+    "name": "BUSCOPAN — 10 MG/ML SOL GOT OR CT FR GOT VD AMB X 20 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094930001",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094930001",
+    "registration": "1781708900131",
+    "ingredient": "BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897129300059",
+    "name": "CAMOMILINA C — 25 MG + 5 MG + 25 MG  + 150 UI CAP DURA BUC CT BL AL PLAS PVC TRANS X 20",
+    "brand": "THERASKIN FARMACEUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897129300059",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897129300059",
+    "registration": "1019100610044",
+    "ingredient": "MATRICARIA CHAMOMILLA L.;COLECALCIFEROL;ÁCIDO ASCÓRBICO;GLYCYRRHIZA GLABRA L.",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898148293339",
+    "name": "CARBOCISTEÍNA — 20 MG/ML XPE CT FR PLAS OPC X 100 ML + CP MED",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898148293339",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898148293339",
+    "registration": "1256800340055",
+    "ingredient": "CARBOCISTEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898148293353",
+    "name": "CARBOCISTEÍNA — 50 MG/ML XPE CT FR PLAS OPC X 100 ML + COP",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898148293353",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898148293353",
+    "registration": "1256800340071",
+    "ingredient": "CARBOCISTEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658036057",
+    "name": "CEFALIUM ONE — 750 MG COM REV CT BL AL PLAS AMB X 20",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658036057",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658036057",
+    "registration": "1057307280021",
+    "ingredient": "PARACETAMOL",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112101635",
+    "name": "CETOCONAZOL — 20 MG/G CREM DERM CT BG AL X 30 G",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112101635",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112101635",
+    "registration": "1037007150045",
+    "ingredient": "CETOCONAZOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896422512145",
+    "name": "CICLOPIROX OLAMINA — 10 MG/ML SOL DERM CT FR GOT PLAS PE TRANS X 15 ML ",
+    "brand": "SANOFI MEDLEY FARMACÊUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896422512145",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896422512145",
+    "registration": "1832602370013",
+    "ingredient": "CICLOPIROX OLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896422512169",
+    "name": "CICLOPIROX OLAMINA — 10 MG/G CREM DERM CT BG AL X 20G",
+    "brand": "SANOFI MEDLEY FARMACÊUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896422512169",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896422512169",
+    "registration": "1832602540016",
+    "ingredient": "CICLOPIROX OLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898060132761",
+    "name": "CICLOPIROX- OLAMINA — 10 MG/G CREM DERM CT BG AL X 20 G ",
+    "brand": "LABORATORIO GLOBO SA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898060132761",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898060132761",
+    "registration": "1053501490015",
+    "ingredient": "CICLOPIROX OLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523206288",
+    "name": "CIFLOGEX — 1,5 MG/ML COLUT CT FR SPR PLAS OPC X 30 ML (SBR MENTA)",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523206288",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523206288",
+    "registration": "1438100800023",
+    "ingredient": "CLORIDRATO DE BENZIDAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523200576",
+    "name": "CIMEGRIPE — (400,0 + 4,0 + 4,0) MG CAP DURA CT BL AL PLAS PVC TRANS X 20",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523200576",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523200576",
+    "registration": "1438102720035",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523208572",
+    "name": "CIMEGRIPE — (400,0 + 4,0 + 4,0) MG CAP DURA CT BL AL PLAS PVC TRANS X 100",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523208572",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523208572",
+    "registration": "1438102720043",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523206295",
+    "name": "CIMEGRIPE — (100 + 2 + 2) MG/ML SOL OR CT FR GOT PLAS PE OPC X 20 ML",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523206295",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523206295",
+    "registration": "1438100570044",
+    "ingredient": "MALEATO DE CLORFENAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523228150",
+    "name": "XAROPE CIMETOSSE — 13,33 MG/ML XPE CT FR PLAS PET TRANS X 120 ML + COP (SBR MEL) ",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523228150",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523228150",
+    "registration": "1438102870010",
+    "ingredient": "GUAIFENESINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714202976",
+    "name": "CLANISTIL — (0,25 + 3) MG/ML SOL GOT OFT CT FR GOT PLAS PEAD/PEBD OPC X 15 ML ",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714202976",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714202976",
+    "registration": "1558402120069",
+    "ingredient": "CLORIDRATO DE NAFAZOLINA;MALEATO DE FENIRAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523207643",
+    "name": "CLORIDRATO DE AMBROXOL — 3 MG/ML XPE CT FR PLAS PET AMB X 120 ML + COP",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523207643",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523207643",
+    "registration": "1438100890030",
+    "ingredient": "CLORIDRATO DE AMBROXOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523220352",
+    "name": "CLORIDRATO DE FEXOFENADINA — 180 MG COM REV CT BL AL PLAS PVDC TRANS X 10",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523220352",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523220352",
+    "registration": "1438102030365",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004777535",
+    "name": "CLORIDRATO DE FEXOFENADINA — 120 MG COM REV CT BL AL PLAS OPC X 10  ",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004777535",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004777535",
+    "registration": "1023513610019",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891158106897",
+    "name": "COBAVITAL — 1  MG + 4  MG COM CT BL AL AL X 30",
+    "brand": "ABBOTT LABORATORIOS DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891158106897",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891158106897",
+    "registration": "1055303440050",
+    "ingredient": "CLORIDRATO DE CIPROEPTADINA;COBAMAMIDA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891158106965",
+    "name": "COBAVITAL — 1  MG + 4  MG COM CT BL AL AL X 16",
+    "brand": "ABBOTT LABORATORIOS DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891158106965",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891158106965",
+    "registration": "1055303440069",
+    "ingredient": "CLORIDRATO DE CIPROEPTADINA;COBAMAMIDA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112141655",
+    "name": "COLÍRIO TEUTO — 0,15MG/ML + 0,3 MG/ML SOL OFT CT FR PLAS TRANS GOT X 20 ML",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112141655",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112141655",
+    "registration": "1037001130018",
+    "ingredient": "CLORIDRATO DE NAFAZOLINA;SULFATO DE ZINCO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095220928",
+    "name": "COLÍRIO GEOLAB — 0,15 MG + 0,3 MG SOL OFT CT FR PLAS TRANS GOT X 20 ML ",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095220928",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095220928",
+    "registration": "1542301790011",
+    "ingredient": "SULFATO DE ZINCO HEPTAIDRATADO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058020316",
+    "name": "COLÍRIO MOURA BRASIL — 0,15 MG/ML + 0,3 MG/ML SOL OFT CT FR CGT PLAS TRANS X 20 ML",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058020316",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058020316",
+    "registration": "1862000020016",
+    "ingredient": "CLORIDRATO DE NAFAZOLINA;SULFATO DE ZINCO HEPTAIDRATADO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714224459",
+    "name": "COLÍRIO NEO BRASIL — (0,15 + 0,30) MG/ML SOL GOT OFT CT FR GOT PLAS PEBD/PEAD TRANSL X 20 ML",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714224459",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714224459",
+    "registration": "1558403770032",
+    "ingredient": "SULFATO DE ZINCO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006212102",
+    "name": "CONIDRIN 3% — 30 MG/ML SOL NAS CT FR SPR PLAS PET OPC X 60 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006212102",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006212102",
+    "registration": "1049713830024",
+    "ingredient": "CLORETO DE SÓDIO",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898636193943",
+    "name": "LAKESIAPES — 10 MG/G CREM CT BG AL X 20 G ",
+    "brand": "AIRELA INDÚSTRIA FARMACÊUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898636193943",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898636193943",
+    "registration": "1449300730016",
+    "ingredient": "CLORIDRATO DE TERBINAFINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006216711",
+    "name": "CRONOPLEX — 7,5 MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006216711",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006216711",
+    "registration": "1049714720011",
+    "ingredient": "PICOSSULFATO DE SÓDIO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658001901",
+    "name": "DECONGEX PLUS — (12 + 15) MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PVC TRANS X 12",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658001901",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658001901",
+    "registration": "1057302310011",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658001925",
+    "name": "DECONGEX PLUS — (2 + 2,5) MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658001925",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658001925",
+    "registration": "1057302310060",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658001918",
+    "name": "DECONGEX PLUS — (0,4 + 1) MG/ML XPE CT FR VD AMB X 120 ML + COP  X 10 ML ",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658001918",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658001918",
+    "registration": "1057302310052",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917001250",
+    "name": "DERMOTRIZOL — 10 MG/ML SOL TOP CT FR VD AMB SPRAY X 20 ML",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917001250",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917001250",
+    "registration": "1057100970027",
+    "ingredient": "CLOTRIMAZOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094930209",
+    "name": "DESCON — (12 + 15) MG COM REV LIB PROL CT BL AL PLAS PVC/PE/PVDC TRANS X 12",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094930209",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094930209",
+    "registration": "1781709610021",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094929401",
+    "name": "DESCON — (2 + 2,5) MG/ML SOL GOT OR CT FR GOT PLAS PEAD/PEBD OPC X 20 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094929401",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094929401",
+    "registration": "1781709600026",
+    "ingredient": "MALEATO DE BRONFENIRAMINA;CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112168348",
+    "name": "DESLORATADINA — 0,5 MG/ML XPE CT FR VD AMB X 100 ML + SER DOS",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112168348",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112168348",
+    "registration": "1037007840025",
+    "ingredient": "DESLORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112168331",
+    "name": "DESLORATADINA — 0,5 MG/ML XPE CT FR VD AMB X 60 ML + SER DOS",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112168331",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112168331",
+    "registration": "1037007840017",
+    "ingredient": "DESLORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7894916343237",
+    "name": "DESLORATADINA — 5 MG COM REV CT BL AL/AL X 10",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7894916343237",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7894916343237",
+    "registration": "1677306860122",
+    "ingredient": "DESLORATADINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899620915176",
+    "name": "DESLORATADINA — 5 MG COM REV CT BL AL PLAS PVC/PCTFE TRANS X 10",
+    "brand": "LABORATORIO GLOBO SA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899620915176",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899620915176",
+    "registration": "1053502450017",
+    "ingredient": "DESLORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898495609968",
+    "name": "DESLORATADINA — 0,5 MG/ML XPE CT FR PLAS PET AMB X 60 ML + SER DOS",
+    "brand": "CIFARMA CIENTÍFICA FARMACÊUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898495609968",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898495609968",
+    "registration": "1156002450035",
+    "ingredient": "DESLORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714296074",
+    "name": "DIPIRONA — 500 MG/ML SOL OR CT FR GOT PLAS OPC  X 20 ML",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714296074",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714296074",
+    "registration": "1558406830028",
+    "ingredient": "DIPIRONA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899547500356",
+    "name": "DIPIRONA SODICA — 1000 MG COM CT BL AL PLAS TRANS X 10",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899547500356",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899547500356",
+    "registration": "1256800410150",
+    "ingredient": "DIPIRONA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898049797615",
+    "name": "DIPIRONA MONOIDRATADA — 1 G COM CT BL AL PLAS PVC TRANS X 10",
+    "brand": "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898049797615",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898049797615",
+    "registration": "1039202210082",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898148294121",
+    "name": "DIPIRONA SODICA — 500 MG COM CT BL AL PLAS TRANS X 500 (EMB MULT)",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898148294121",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898148294121",
+    "registration": "1256800410029",
+    "ingredient": "DIPIRONA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898700410068",
+    "name": "DORALEX — 1 G COM CT BL AL PLAS PVC TRANS X 10",
+    "brand": "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898700410068",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898700410068",
+    "registration": "1039201010136",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714291017",
+    "name": "DORALGINA — (300 + 30 + 30) MG COM REV CT BL AL PLAS PVC/PCTFE TRANS X 100",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714291017",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714291017",
+    "registration": "1558406650070",
+    "ingredient": "CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA;MUCATO DE ISOMETEPTENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714291024",
+    "name": "DORALGINA — (300 + 30 + 30) MG COM REV CT BL AL PLAS PVC/PCTFE TRANS X 20",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714291024",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714291024",
+    "registration": "1558406650054",
+    "ingredient": "CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA;MUCATO DE ISOMETEPTENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058022136",
+    "name": "DORFLEX — 35 MG + 300 MG + 50 MG COM CT BL AL PLAS  AMB X 24",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058022136",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058022136",
+    "registration": "1862000080078",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058017392",
+    "name": "DORFLEX — 300 MG + 35 MG + 50 MG COM CT BL AL PLAS  AMB X 300",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058017392",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058017392",
+    "registration": "1862000080140",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058017507",
+    "name": "DORFLEX — 300 MG + 35 MG + 50 MG COM CT BL AL PLAS  AMB X 36",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058017507",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058017507",
+    "registration": "1862000080116",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058020941",
+    "name": "DORFLEX — 300 MG + 35 MG + 50 MG COM CT BL AL PLAS  AMB X 50",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058020941",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058020941",
+    "registration": "1862000080205",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058022815",
+    "name": "DORFLEX UNO — 1 G COM CT BL AL PLAS PVC OPC X 10",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058022815",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058022815",
+    "registration": "1862000090642",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004769011",
+    "name": "DORICIN — (35 + 300 + 50) MG COM CT BL AL PLAS PVC/PVDC AMB X 24",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004769011",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004769011",
+    "registration": "1023500720201",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004769028",
+    "name": "DORICIN — (35 + 300 + 50) MG COM CT BL AL PLAS PVC/PVDC AMB X 36",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004769028",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004769028",
+    "registration": "1023500720211",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094929319",
+    "name": "DORIL — (500 + 30) MG COM CT BL AL PLAS TRANS X 10",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094929319",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094929319",
+    "registration": "1781700070059",
+    "ingredient": "ÁCIDO ACETILSALICÍLICO;CAFEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094901254",
+    "name": "DORIL — (500 + 30) MG COM CT BL AL PLAS TRANS X 150",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094901254",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094901254",
+    "registration": "1781700070032",
+    "ingredient": "ÁCIDO ACETILSALICÍLICO;CAFEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094908529",
+    "name": "DORIL ENXAQUECA — 250 MG + 250 MG + 65 MG COM REV CT BL AL AL X 18",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094908529",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094908529",
+    "registration": "1781701230076",
+    "ingredient": "CAFEÍNA ANIDRA;ÁCIDO ACETILSALICÍLICO;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094906310",
+    "name": "DORIL ENXAQUECA — 250 MG + 250 MG + 65 MG COM REV CT BL AL AL X 100",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094906310",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094906310",
+    "registration": "1781701230122",
+    "ingredient": "CAFEÍNA ANIDRA;ÁCIDO ACETILSALICÍLICO;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004715032",
+    "name": "DORILEN — 500 MG + 10 MG + 5 MG COM CT BL AL PLAS OPC X 12",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004715032",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004715032",
+    "registration": "1677302100042",
+    "ingredient": "DIPIRONA MONOIDRATADA;CLORIDRATO DE PROMETAZINA;CLORIDRATO DE ADIFENINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004715049",
+    "name": "DORILEN — (500+10+5) MG /1,5 ML SOL OR CT FR GOT VD AMB X 15 ML",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004715049",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004715049",
+    "registration": "1677302100034",
+    "ingredient": "DIPIRONA;CLORIDRATO DE PROMETAZINA;CLORIDRATO DE ADIFENINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058021528",
+    "name": "DULCOLAX — 5 MG COM REV LIB RETARD  CT BL AL PLAS TRANS  X 20 ",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058021528",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058021528",
+    "registration": "1862000200103",
+    "ingredient": "BISACODIL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058001032",
+    "name": "DULCOLAX GOTAS — 7,5 MG/ML SOL OR CT FR GOT PLAS PEAD OPC X 30 ML",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058001032",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058001032",
+    "registration": "1862000140021",
+    "ingredient": "PICOSSULFATO DE SÓDIO MONOIDRATADO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006216308",
+    "name": "ECOS — 3 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006216308",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006216308",
+    "registration": "1049711840014",
+    "ingredient": "DROPROPIZINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331706925",
+    "name": "ENEMIN — 714 MG / G + 7,70 MG/G SOL RET CT 7 BG PLAS PE OPC 6,5 G",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331706925",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331706925",
+    "registration": "1068901990013",
+    "ingredient": "LAURILSULFATO DE SÓDIO;SORBITOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094903289",
+    "name": "EPOCLER — (100 + 50 + 10)MG/ML SOL OR CT 60 FLAC PLAS PP TRANS X 10 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094903289",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094903289",
+    "registration": "1781700790043",
+    "ingredient": "RACEMETIONINA;CITRATO DE COLINA;BETAÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006297765",
+    "name": "ESPASMOPAN COMPOSTO — (10,0 + 250,0) MG COM REV CT BL AL PLAS PVC TRANS X 20",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006297765",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006297765",
+    "registration": "1049715070019",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095256453",
+    "name": "ESPIRONOLACTONA — 25 MG COM CT BL AL PLAS TRANS X 30",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095256453",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095256453",
+    "registration": "1542302660049",
+    "ingredient": "ESPIRONOLACTONA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094914155",
+    "name": "ESTOMAZIL — (462+90+438) MG/G PO EFEV CT 50 ENV AL  PLAS PES X 5 G (ABACAXI) ",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094914155",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094914155",
+    "registration": "1781700390649",
+    "ingredient": "ION CITRATO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094914223",
+    "name": "ESTOMAZIL — (462+90+438) MG/G PO EFEV CT 50 ENV AL PLAS PES X 5 G (LARANJA) ",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094914223",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094914223",
+    "registration": "1781700390576",
+    "ingredient": "ION CITRATO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094914353",
+    "name": "ESTOMAZIL — (462+90+438) MG/G PO EFEV CT 50 ENV AL PLAS PES X 5 G (GUARANÁ)",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094914353",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094914353",
+    "registration": "1781700390835",
+    "ingredient": "ION CITRATO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004812168",
+    "name": "EXPEC — (0,4 + 20 + 4 + 6) MG/ML XPE CT FR VD AMB X 120 ML ",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004812168",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004812168",
+    "registration": "1677302710010",
+    "ingredient": "BENZOATO DE SÓDIO;CLORIDRATO DE OXOMEMAZINA;IODETO DE POTÁSSIO;GUAIFENESINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006208358",
+    "name": "FENAREN — 11,6 MG/G GEL DERM CT BG AL X 60 G",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006208358",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006208358",
+    "registration": "1049701200128",
+    "ingredient": "DICLOFENACO DIETILAMÔNIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006202226",
+    "name": "FERID — 5 MG/G + 250 UI/G POM DERM CT BG AL X 10 G",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006202226",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006202226",
+    "registration": "1049702680018",
+    "ingredient": "SULFATO DE NEOMICINA;BACITRACINA ZÍNCICA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004794174",
+    "name": "CLORIDRATO DE FEXOFENADINA — 6 MG/ML SUS OR CT FR PLAS PET AMB X 60 ML + SER DOS",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004794174",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004794174",
+    "registration": "1023513090015",
+    "ingredient": "CLORIDRATO DE FEXOFENADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891106910989",
+    "name": "FLANAX XR — 660 MG COM REV LIB PROL CT STR AL PLAS PES/PET/PEBD OPC X 8",
+    "brand": "BAYER S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891106910989",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891106910989",
+    "registration": "1705601260032",
+    "ingredient": "NAPROXENO SÓDICO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891721023422",
+    "name": "FLEXIVE CDM — 350MG/G CREM DERM CT BG AL X 25G",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891721023422",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891721023422",
+    "registration": "1214206650051",
+    "ingredient": "EXTRATO DE SYMPHYTUM OFFICINALE",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658011863",
+    "name": "FLOGORAL — 1,5 MG/ML COLUT CT FR PLAS TRANS X 250 ML + COP (SABOR MENTA)",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658011863",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658011863",
+    "registration": "1057303130155",
+    "ingredient": "CLORIDRATO DE BENZIDAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896658005305",
+    "name": "FLOGORAL — 1,5 MG/ML COLUT CT FR VD TRANS NEB X 30 ML",
+    "brand": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896658005305",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896658005305",
+    "registration": "1057303130023",
+    "ingredient": "CLORIDRATO DE BENZIDAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898074617438",
+    "name": "FLUIMUCIL — 40 MG/ML XPE CT FR VD AMB X 120ML + COP SBR MORANGO C/ ROMÃ",
+    "brand": "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898074617438",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898074617438",
+    "registration": "1008400750377",
+    "ingredient": "ACETILCISTEÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095202597",
+    "name": "IBUPROFENO — 400 MG CAP MOLE  CT BL AL PLAS PVC/PVDC TRANS X 8",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095202597",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095202597",
+    "registration": "1542303330026",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896622300450",
+    "name": "GASTROL — 125MG/ML + 50 MG/ML + 180 MG/ML SUS OR CT FR PLAS OPC X 250 ML",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896622300450",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896622300450",
+    "registration": "1558403960141",
+    "ingredient": "HIDRÓXIDO DE ALUMÍNIO;CARBONATO DE CÁLCIO;HIDRÓXIDO DE MAGNÉSIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006291770",
+    "name": "GELO-BIO — (0,0394 + 0,0333 + 0,0083) G/ML SOL AER TB AL X 60 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006291770",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006291770",
+    "registration": "1049713630017",
+    "ingredient": "SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006291749",
+    "name": "GELO-BIO — (0,0394 + 0,0333 + 0,0083) G/ML SOL AER TB AL X 150 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006291749",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006291749",
+    "registration": "1049713630025",
+    "ingredient": "SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006291732",
+    "name": "GELO-BIO — (52,525 + 44,4 + 20,0) MG/G POM DERM CT BG AL X 20G",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006291732",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006291732",
+    "registration": "1049713630033",
+    "ingredient": "SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891106003230",
+    "name": "CANESTEN — 20 MG/G CREM VAG CT BG AL X 20 G + 3 APLIC",
+    "brand": "BAYER S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891106003230",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891106003230",
+    "registration": "1705601020120",
+    "ingredient": "CLOTRIMAZOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891106912303",
+    "name": "GINO-CANESTEN — 500 MG CAP MOLE VAG CT BL AL PLAS PVC/PVDC/PVC + APLIC",
+    "brand": "BAYER S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891106912303",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891106912303",
+    "registration": "1705601240015",
+    "ingredient": "CLOTRIMAZOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095202511",
+    "name": "GINO MIZONOL — 20 MG/G CREM VAG CT BG AL X 80 G + 14 APLIC ",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095202511",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095202511",
+    "registration": "1542300570018",
+    "ingredient": "NITRATO DE MICONAZOL",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523223193",
+    "name": "HEDERA CIMED — 7 MG/ML SOL OR CT FR PLAS PET AMB X 100 ML + 1 COP",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523223193",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523223193",
+    "registration": "1438102020017",
+    "ingredient": "HEDERA HELIX L.",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896023703508",
+    "name": "HEDERA CATARINENSE — 7 MG/ML XPE CT FR PLAS PET AMB X 150 ML + COP",
+    "brand": "LABORATORIO CATARINENSE LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896023703508",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896023703508",
+    "registration": "1006633950021",
+    "ingredient": "HEDERA HELIX L.",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331707106",
+    "name": "HEDERAFLUX — 7 MG/ML XPE CT FR PLAS AMB X 100 ML + COP",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331707106",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331707106",
+    "registration": "1068901950038",
+    "ingredient": "HEDERA HELIX L.",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006247746",
+    "name": "HISTADIN — 1 MG/ML XPE CT FR VD AMB X 100 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006247746",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006247746",
+    "registration": "1049711850036",
+    "ingredient": "LORATADINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897137900401",
+    "name": "HYLO-GEL — 2 MG/ML SOL OFT CT 01 FR PLAS GOT X 10 ML",
+    "brand": "FBM INDÚSTRIA FARMACÊUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897137900401",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897137900401",
+    "registration": "1649300030017",
+    "ingredient": "HIALURONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095203037",
+    "name": "HYSTALOR — 0,5 MG/ML XPE CT FR PLAS PET AMB X 60 ML + SER DOS + ADAPT",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095203037",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095203037",
+    "registration": "1542303340013",
+    "ingredient": "DESLORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006259305",
+    "name": "HYTOS PLUS — (48 + 9) MG/ML SOL OR CT FR GOT VD AMB X 15 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006259305",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006259305",
+    "registration": "1049702260035",
+    "ingredient": "CLORIDRATO DE CLOBUTINOL;SUCCINATO DE DOXILAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006259701",
+    "name": "HYTOS PLUS — (4 + 0,75) MG/ML XPE CT FR VD AMB X 100 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006259701",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006259701",
+    "registration": "1049702260019",
+    "ingredient": "CLORIDRATO DE CLOBUTINOL;SUCCINATO DE DOXILAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004732930",
+    "name": "IBUFLEX — 400 MG CAP MOLE CT BL AL PLAS TRANS X 8",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004732930",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004732930",
+    "registration": "1677300880237",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112160281",
+    "name": "IBUPRIL — 400 MG CAP MOLE CT BL AL PLAS TRANS X 8",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112160281",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112160281",
+    "registration": "1037000760336",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112160298",
+    "name": "IBUPRIL — 400 MG CAP MOLE CT BL AL PLAS TRANS X 10",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112160298",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112160298",
+    "registration": "1037000760344",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899095260481",
+    "name": "IBUPROFENO — 100 MG/ML SUS GOT OR CT FR GOT PLAS PE OPC X 20 ML",
+    "brand": "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899095260481",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899095260481",
+    "registration": "1542303070059",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004727226",
+    "name": "IBUPROFENO — 100 MG/ML SUS OR CT FR GOT PLAS PEAD/PEBD OPC X 20 ML",
+    "brand": "GERMED FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004727226",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004727226",
+    "registration": "1058306560019",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898049794171",
+    "name": "IBUPROFENO — 100 MG/ML SUS GOT OR CT FR GOT PLAS PEAD/PEBD OPC X 20 ML",
+    "brand": "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898049794171",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898049794171",
+    "registration": "1039202010016",
+    "ingredient": "IBUPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006290216",
+    "name": "LACRIFILM — 5 MG/ML SOL OFT CT FR GOT PLAS OPC  X 15 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006290216",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006290216",
+    "registration": "1049712890074",
+    "ingredient": "CARBOXIMETILCELULOSE SÓDICA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006291398",
+    "name": "LACRIFILM — 5 MG/ML SOL OFT CT FR GOT PLAS OPC  X 10 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006291398",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006291398",
+    "registration": "1049712890082",
+    "ingredient": "CARBOXIMETILCELULOSE SÓDICA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094999497",
+    "name": "LACTO PURGA — 5 MG COM REV CT BL AL PLAS TRANS X 12",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094999497",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094999497",
+    "registration": "1781700150087",
+    "ingredient": "BISACODIL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094903234",
+    "name": "LACTO PURGA — 5 MG COM REV DISP BL AL PLAS TRANS X 150",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094903234",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094903234",
+    "registration": "1781700150044",
+    "ingredient": "BISACODIL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897322702209",
+    "name": "LISADOR — 500 MG + 5 MG + 10 MG COM CT BL AL PLAS AMB X 16",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897322702209",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897322702209",
+    "registration": "1781700600090",
+    "ingredient": "DIPIRONA;CLORIDRATO DE PROMETAZINA;CLORIDRATO DE ADIFENINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897322706320",
+    "name": "LISADOR — 500 MG + 5 MG + 10 MG COM CT BL AL PLAS AMB X 100",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897322706320",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897322706320",
+    "registration": "1781700600041",
+    "ingredient": "CLORIDRATO DE PROMETAZINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897322701752",
+    "name": "LISADOR — 500 MG + 5 MG + 10 MG COM CT BL AL PLAS AMB X 200",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897322701752",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897322701752",
+    "registration": "1781700600104",
+    "ingredient": "DIPIRONA;CLORIDRATO DE PROMETAZINA;CLORIDRATO DE ADIFENINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094916227",
+    "name": "LISADOR DIP — 1G COM CT BL AL PLAS TRANS X 10 ",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094916227",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094916227",
+    "registration": "1781708420032",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094919396",
+    "name": "LISADOR DIP — 500 MG/ML SOL OR CT FR PLAS OPC GOT X 20 ML",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094919396",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094919396",
+    "registration": "1781708770033",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523207704",
+    "name": "LORATADINA — 1 MG/ML XPE CT FR PLAS AMB X 100 ML + COP",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523207704",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523207704",
+    "registration": "1438100900028",
+    "ingredient": "LORATADINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898148294473",
+    "name": "LORATADINA — 1 MG/ML XPE CT FR PLAS OPC X 100 ML + COP",
+    "brand": "PRATI DONADUZZI & CIA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898148294473",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898148294473",
+    "registration": "1256800800072",
+    "ingredient": "LORATADINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006219644",
+    "name": "LORATADINA — 10 MG COM CT BL AL PLAS PVC TRANS X 12",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006219644",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006219644",
+    "registration": "1049714910031",
+    "ingredient": "LORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523227573",
+    "name": "LORATADINA — 10 MG COM CT BL AL PLAS PVC TRANS X 12",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523227573",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523227573",
+    "registration": "1438102400146",
+    "ingredient": "LORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523202822",
+    "name": "LORATAMED — 10 MG COM CT BL AL PLAS PVC TRANS X 12",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523202822",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523202822",
+    "registration": "1438102530147",
+    "ingredient": "LORATADINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891035650147",
+    "name": "LUFTAGASTRO — 100 MG/ML + 20 MG/ML SUS OR CT 12 ENV AL LAM X 10 ML",
+    "brand": "RECKITT BENCKISER (BRASIL) LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891035650147",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891035650147",
+    "registration": "1739000050089",
+    "ingredient": "UNDECILENOIL ALGINATO DE SÓDIO/TEA;BICARBONATO DE POTÁSSIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896016801501",
+    "name": "LUFTAL — 40 MG COM CT BL AL PLAS TRANS X 20",
+    "brand": "RECKITT BENCKISER (BRASIL) LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896016801501",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896016801501",
+    "registration": "1739000090013",
+    "ingredient": "SIMETICONA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896016804915",
+    "name": "LUFTAL — 75 MG ML EMU OR CT FR PLAS OPC GOT X 15 ML",
+    "brand": "RECKITT BENCKISER (BRASIL) LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896016804915",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896016804915",
+    "registration": "1739000090031",
+    "ingredient": "SIMETICONA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896222720887",
+    "name": "LUFTAL — 75 MG ML EMU OR BCO CT FR PLAS OPC GOT X 15 ML",
+    "brand": "RECKITT BENCKISER (BRASIL) LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896222720887",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896222720887",
+    "registration": "1739000090102",
+    "ingredient": "SIMETICONA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896676435658",
+    "name": "LUNAH — 1 MG /ML SOL OFT CT FR GOT PLAS PE OPC X 10ML",
+    "brand": "CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896676435658",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896676435658",
+    "registration": "1029805290021",
+    "ingredient": "HIALURONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7895858017415",
+    "name": "MAGNESIA BISURADA — (63,7 + 521 + 67 + 3,3) MG PAS CX BL AL PLAS PVC/PVDC OPC X 200",
+    "brand": "ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7895858017415",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7895858017415",
+    "registration": "1376401800118",
+    "ingredient": "CARBONATO DE CÁLCIO;BICARBONATO DE SÓDIO;CARBONATO BÁSICO DE BISMUTO;CARBONATO DE MAGNÉSIO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523209418",
+    "name": "MALEATO DE DEXCLORFENIRAMINA — 0,4 MG/ML SOL OR CT FR PLAS AMB X 120 ML + CP",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523209418",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523209418",
+    "registration": "1438101300016",
+    "ingredient": "MALEATO DE DEXCLORFENIRAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714273006",
+    "name": "MASSAGEOL — SOL AER TB AL X 120 ML",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714273006",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714273006",
+    "registration": "1558403070065",
+    "ingredient": "MENTOL CRISTAL;POLIACRILAMIDOMETIL BENZILIDENO CÂNFORA;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714230504",
+    "name": "MASSAGEOL — POM DERM CT BG AL X 30 G",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714230504",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714230504",
+    "registration": "1558403070014",
+    "ingredient": "MENTOL CRISTAL;POLIACRILAMIDOMETIL BENZILIDENO CÂNFORA;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898133131011",
+    "name": "MAXALGINA — 500 MG/ML SOL OR CT FR GOT PLAS OPC  X 20 ML",
+    "brand": "NATULAB LABORATORIO S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898133131011",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898133131011",
+    "registration": "1384100020025",
+    "ingredient": "DIPIRONA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094208407",
+    "name": "MAXIDRATE — 6,0 MG/G GEL NAS CT FR APLIC PLAS PEAD OPC X 30G",
+    "brand": "LIBBS FARMACÊUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094208407",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094208407",
+    "registration": "1003301260044",
+    "ingredient": "CLORETO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917002806",
+    "name": "MEBENDAZOL — 20 MG/ML SUS OR CT FR PLAS AMB X 30 ML",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917002806",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917002806",
+    "registration": "1057101410017",
+    "ingredient": "MEBENDAZOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891317015176",
+    "name": "MINILAX — 714,0 MG/G + 7,70 MG/G SOL RET CT 7 BG PLAS PEBD/PEBDL OPC X 6,5 G",
+    "brand": "EUROFARMA LABORATORIOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317015176",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317015176",
+    "registration": "1004314040038",
+    "ingredient": "LAURIL SULFATO DE SÓDIO;SORBITOL 70 %",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891317022174",
+    "name": "MINILAX — 714,0 MG/G + 7,70 MG/G SOL RET CT 7 BG PLAS PEBD/PEBDL OPC X 6,5 G",
+    "brand": "EUROFARMA LABORATORIOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317022174",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317022174",
+    "registration": "1004314040062",
+    "ingredient": "LAURIL SULFATO DE SÓDIO;SORBITOL 70 %",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714295466",
+    "name": "MIORRELAX — (300 + 35 + 50) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 20",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714295466",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714295466",
+    "registration": "1558406890012",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714274577",
+    "name": "MIRADOR — 1G COM CT BL AL PLAS TRANS X 10 ",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714274577",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714274577",
+    "registration": "1558405820010",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714291987",
+    "name": "MIRADOR CÓLICA — (10,0 + 250,0) MG COM REV CT BL AL PLAS PVC TRANS X 20",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714291987",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714291987",
+    "registration": "1558406410045",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006240419",
+    "name": "MUCOFAN — 20 MG/ML XPE CT FR PLAS TRANS X 100 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006240419",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006240419",
+    "registration": "1049713150031",
+    "ingredient": "CARBOCISTEÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006240457",
+    "name": "MUCOFAN — 50 MG/ML XPE CT FR PLAS TRANS X 100 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006240457",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006240457",
+    "registration": "1049713150023",
+    "ingredient": "CARBOCISTEÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7894916325868",
+    "name": "MUCOS EXPEC — 600 MG GRAN CT 10 ENV AL PLAS PE X 5 G",
+    "brand": "LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7894916325868",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7894916325868",
+    "registration": "1677306910162",
+    "ingredient": "ACETILCISTEÍNA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896472501823",
+    "name": "MULTIGRIP — (400 + 4 + 4) MG CAP DURA CT BL AL PLAS PVC/PVDC TRANS X 20",
+    "brand": "MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896472501823",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896472501823",
+    "registration": "1181902300014",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006220299",
+    "name": "NAPROXENO — 500 MG COM CT BL AL PLAS PVC TRANS X 10",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006220299",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006220299",
+    "registration": "1049715450024",
+    "ingredient": "NAPROXENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006272724",
+    "name": "NASALIV — (40,0 + 1,0 + 0,4) MG/ML SOL OR CT FR VD AMB X 60 ML + COP",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006272724",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006272724",
+    "registration": "1049711640147",
+    "ingredient": "MALEATO DE CARBINOXAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006212690",
+    "name": "NAXOTEC — 500 MG COM CT BL AL PLAS PVC TRANS X 10",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006212690",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006212690",
+    "registration": "1049713640063",
+    "ingredient": "NAPROXENO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094922129",
+    "name": "NENE DENT N — (150,0 + 3,40 + 3,20) MG/G GEL  CT BG AL  X 10 G",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094922129",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094922129",
+    "registration": "1781709050026",
+    "ingredient": "MATRICARIA CHAMOMILLA L.;CLORIDRATO DE LIDOCAINA;POLIDOCANOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094922112",
+    "name": "NENE DENT N — (150,0 + 3,40 + 3,20) MG/G SOL  CT FR PLAS AMB GOT X 10 G",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094922112",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094922112",
+    "registration": "1781709050034",
+    "ingredient": "MATRICARIA CHAMOMILLA L.;CLORIDRATO DE LIDOCAINA;POLIDOCANOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006217459",
+    "name": "NEOCOPAN COMPOSTO — (10,0 + 250,0) MG COM REV CT BL AL PLAS PVC TRANS X 20",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006217459",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006217459",
+    "registration": "1049714510015",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006217480",
+    "name": "NEOCOPAN COMPOSTO — 6,67 MG/ML + 333,4 MG/ML SOL OR CT FR GOT VD AMB X 10 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006217480",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006217480",
+    "registration": "1049714540011",
+    "ingredient": "DIPIRONA MONOIDRATADA;BUTILBROMETO DE ESCOPOLAMINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714265933",
+    "name": "NEOLEFRIN — (400 + 20) MG COM AMARELO / (400 + 4) MG  COM LARANJA CT BL AL PLAS PVC TRANS X 10 + 10",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714265933",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714265933",
+    "registration": "1558402140043",
+    "ingredient": "MALEATO DE CARBINOXAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714273822",
+    "name": "NEOLEFRIN DIA — 800 MG + 20 MG CT BL AL PLAS TRANS X 10 COM AMARELO + 10 COM BRANCO",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714273822",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714273822",
+    "registration": "1558405430050",
+    "ingredient": "CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714254784",
+    "name": "NEOLEFRIN — (40 + 1 + 0,4) MG/ML XPE CT FR VD AMB X 60 ML + COP",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714254784",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714254784",
+    "registration": "1558402140035",
+    "ingredient": "CLORIDRATO DE FENILEFRINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917004985",
+    "name": "SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA — (5 MG + 250 UI)/G POM DERM CT BG AL X 10 G",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917004985",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917004985",
+    "registration": "1057101630025",
+    "ingredient": "SULFATO DE NEOMICINA;BACITRACINA ZÍNCICA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094921979",
+    "name": "NEOSALDINA — (30 + 300 + 30 ) MG COM REV CT BL AL PLAS TRANS X 20 ",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094921979",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094921979",
+    "registration": "1781708990084",
+    "ingredient": "DIPIRONA;CAFEÍNA ANIDRA;MUCATO DE ISOMETEPTENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094999992",
+    "name": "NEOSALDINA — (30 + 300 + 30 ) MG COM REV DISPLAY DE CARTOLINA BL AL PLAS TRANS X 30 (EMB MULT)",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094999992",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094999992",
+    "registration": "1781708990106",
+    "ingredient": "DIPIRONA;CAFEÍNA ANIDRA;MUCATO DE ISOMETEPTENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094921986",
+    "name": "NEOSALDINA — (30 + 300 + 30 ) MG COM REV DISPLAY DE CARTOLINA BL AL PLAS TRANS X 200 (EMB MULT)",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094921986",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094921986",
+    "registration": "1781708990181",
+    "ingredient": "DIPIRONA;CAFEÍNA ANIDRA;MUCATO DE ISOMETEPTENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094930735",
+    "name": "NEOSALDINA MUSCULAR — (300 + 35 + 50) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 20",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094930735",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094930735",
+    "registration": "1781709770010",
+    "ingredient": "CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA;DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896523208404",
+    "name": "NEVRALGEX — 300 MG + 50 MG + 35 MG COM CT BL AL PLAS PVC TRANS X 30",
+    "brand": "CIMED INDUSTRIA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523208404",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523208404",
+    "registration": "1438100510068",
+    "ingredient": "DIPIRONA;CITRATO DE ORFENADRINA;CAFEÍNA ANIDRA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898928257025",
+    "name": "NIQUITIN — 14 MG ADES TRANSD TRANS CT ENV AL PE X 7",
+    "brand": "MAPPEL INDÚSTRIA DE EMBALAGENS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898928257025",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898928257025",
+    "registration": "1348001060138",
+    "ingredient": "NICOTINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058467098",
+    "name": "NOVALGINA — 300 MG SUP RET CT STR X 5",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058467098",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058467098",
+    "registration": "1862000180013",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058000172",
+    "name": "NOVALGINA — 500 MG/ML SOL OR CT FR GOT VD AMB X 10 ML ",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058000172",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058000172",
+    "registration": "1862000180099",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058005566",
+    "name": "NOVALGINA — 50 MG/ML SOL OR CT FR VD AMB X 100 ML +COP",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058005566",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058005566",
+    "registration": "1862000180072",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891058015770",
+    "name": "NOVALGINA — 1G COM EFEV CT STR AL AL X 100",
+    "brand": "OPELLA HEALTHCARE BRAZIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891058015770",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891058015770",
+    "registration": "1862000180803",
+    "ingredient": "DIPIRONA MONOIDRATADA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006202103",
+    "name": "PERFENOL — (400 + 4 + 4) MG CAP DURA CT BL AL PLAS PVC TRANS X 20",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006202103",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006202103",
+    "registration": "1049713670019",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897917005463",
+    "name": "PERMETRINA — 0,01 G/ML LOC CT FR PLAS OPC X 60 ML",
+    "brand": "BELFAR LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897917005463",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897917005463",
+    "registration": "1057101600010",
+    "ingredient": "PERMETRINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898100243112",
+    "name": "PHITOSS — 7 MG/ML XPE CT FR PLAS PET AMB X 100 ML + COP",
+    "brand": "BRASTERAPICA PHARMACEUTICA LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898100243112",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898100243112",
+    "registration": "1003801050014",
+    "ingredient": "HEDERA HELIX L.",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896676435184",
+    "name": "PLENIGELL — 5 MG/ML SOL OFT CT FR GOT PLAS PEAD/PEBD OPC X 5 ML",
+    "brand": "CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896676435184",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896676435184",
+    "registration": "1029805040017",
+    "ingredient": "CARMELOSE SÓDICA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896714215037",
+    "name": "PLESONAX — 5 MG COM REV CT BL AL PLAS TRANS X 20 ",
+    "brand": "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896714215037",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896714215037",
+    "registration": "1558401920010",
+    "ingredient": "BISACODIL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7892953001370",
+    "name": "PYRIDIUM — 100 MG COM REV CT BL AL PLAS PVC TRANS X 25",
+    "brand": "ADIUM S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7892953001370",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7892953001370",
+    "registration": "1221400750024",
+    "ingredient": "CLORIDRATO DE FENAZOPIRIDINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7892953001387",
+    "name": "PYRIDIUM — 200 MG COM REV CT BL AL PLAS PVC TRANS X 18",
+    "brand": "ADIUM S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7892953001387",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7892953001387",
+    "registration": "1221400750040",
+    "ingredient": "CLORIDRATO DE FENAZOPIRIDINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331704808",
+    "name": "RAPILAX — 7,5 MG/ML SOL ORAL CT FR GOT PLAS OPACO X 30 ML",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331704808",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331704808",
+    "registration": "1068900700097",
+    "ingredient": "PICOSSULFATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891106006279",
+    "name": "REDOXON — 1 G COM EFEV CT TB PLAS PVC X 10",
+    "brand": "BAYER S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891106006279",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891106006279",
+    "registration": "1705600160018",
+    "ingredient": "ÁCIDO ASCÓRBICO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004715247",
+    "name": "REPOFLOR — 100 MG CAP DURA CT FR PLAS OPC X 12",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004715247",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004715247",
+    "registration": "1023504200016",
+    "ingredient": "SACCHAROMYCES BOULARDII",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004715230",
+    "name": "REPOFLOR — 200 MG PO OR CT 4 ENV KRAFT PE X 800 MG",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004715230",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004715230",
+    "registration": "1023504200024",
+    "ingredient": "LEVEDURA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004720838",
+    "name": "REPOFLOR — 200 MG CAP DURA CT FR PLAS OPC X 6",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004720838",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004720838",
+    "registration": "1023504200040",
+    "ingredient": "SACCHAROMYCES BOULARDII",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004769943",
+    "name": "REPOFLOR — 250 MG PO OR CT 10 ENVL AL PLAS X 800 MG",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004769943",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004769943",
+    "registration": "1023504200091",
+    "ingredient": "SACCHAROMYCES BOULARDII",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004774626",
+    "name": "REPOFLOR — 250 MG CAP DURA CT FR PLAS OPC X 10",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004774626",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004774626",
+    "registration": "1023504200113",
+    "ingredient": "SACCHAROMYCES BOULARDII",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896472520213",
+    "name": "RESFEGRIPE — (400 + 4 + 4) MG CAP DURA CX BL AL PLAS PVC/PVDC TRANS X 200",
+    "brand": "MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896472520213",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896472520213",
+    "registration": "1181902680046",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896472520206",
+    "name": "RESFEGRIPE — (400 + 4 + 4) MG CAP DURA CT BL AL PLAS PVC/PVDC TRANS X 20",
+    "brand": "MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896472520206",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896472520206",
+    "registration": "1181902680011",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331706611",
+    "name": "RESFENOL — 400 MG + 4 MG + 4 MG PO SOL OR CT 50 ENV AL PLAS PE X 5 G",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331706611",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331706611",
+    "registration": "1068901970012",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331701975",
+    "name": "RESFENOL — (400 + 4 + 4)MG CAP DURA CT BL AL PLAS/PVC TRANS  X 200",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331701975",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331701975",
+    "registration": "1068901350067",
+    "ingredient": "MALEATO DE CLORFENAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331701661",
+    "name": "RESFENOL — (40 + 0,6 +0,6)MG/ML  SOL OR CT FR VD AMB X 100ML + COP",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331701661",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331701661",
+    "registration": "1068901350200",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094918481",
+    "name": "RIZI — 5,0 MG COM REV CT BL AL/AL X 10",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094918481",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094918481",
+    "registration": "1781708720011",
+    "ingredient": "DICLORIDRATO DE LEVOCETIRIZINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015560034",
+    "name": "SAL DE FRUTA ENO — PO EFEV CT 60 ENV AL PLAS PE TRANS X 5 G (LARANJA)",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015560034",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015560034",
+    "registration": "1929000030156",
+    "ingredient": "ACIDO CITRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015521684",
+    "name": "SAL DE FRUTA ENO — PO EFEV CT 60 ENV AL PLAS PE TRANS X 5 G (ABACAXI)  ",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015521684",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015521684",
+    "registration": "1929000030458",
+    "ingredient": "ACIDO CITRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015517014",
+    "name": "SAL DE FRUTA ENO — PO EFEV CT 60 ENV AL PLAS PE TRANS X 5 G (GUARANÁ) ",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015517014",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015517014",
+    "registration": "1929000030318",
+    "ingredient": "ÁCIDO CÍTRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015560027",
+    "name": "SAL DE FRUTA ENO — PO EFEV CT 60 ENV AL PLAS PE TRANS X 5 G ",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015560027",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015560027",
+    "registration": "1929000030024",
+    "ingredient": "ACIDO CITRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015517045",
+    "name": "SAL DE FRUTA ENO — PO EFEV FR PLAS PEAD OPC X 100 G (GUARANÁ) ",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015517045",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015517045",
+    "registration": "1929000030342",
+    "ingredient": "ÁCIDO CÍTRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015518370",
+    "name": "SAL DE FRUTA ENO — PO EFEV FR PLAS PEAD OPC X 100 G (LIMÃO)",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015518370",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015518370",
+    "registration": "1929000030415",
+    "ingredient": "ÁCIDO CÍTRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896227800041",
+    "name": "AIR SALONPAS — (30 + 38,5 + 38,5 + 19) MG/ML SOL AER TB AL 80 ML",
+    "brand": "HISAMITSU FARMACÊUTICA DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227800041",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227800041",
+    "registration": "1105200040025",
+    "ingredient": "LEVOMENTOL;SALICILATO DE ETILENOGLICOL;CÂNFORA;SALICILATO DE METILA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331705454",
+    "name": "SANILIN — (0,5 + 4,0) MG/ML SOL SPR OR CT FR SPR VD AMB X 50 ML",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331705454",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331705454",
+    "registration": "1068901510070",
+    "ingredient": "BENZOCAÍNA;CLORETO DE CETILPIRIDÍNIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331705768",
+    "name": "SANILIN — (0,5 + 4,0) MG/ML SOL SPR OR CT FR SPR VD AMB X 50 ML (SBR MEL LIMÃO)",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331705768",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331705768",
+    "registration": "1068901510097",
+    "ingredient": "BENZOCAÍNA;CLORETO DE CETILPIRIDÍNIO",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898074618183",
+    "name": "SEKI — 3,54 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "brand": "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898074618183",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898074618183",
+    "registration": "1008401400043",
+    "ingredient": "FENDIZOATO DE CLOPERASTINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7898074618206",
+    "name": "SEKI — 35,4 MG/ML SUS OR CT FR VD AMB X 15 ML + CGT",
+    "brand": "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898074618206",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898074618206",
+    "registration": "1008401400051",
+    "ingredient": "FENDIZOATO DE CLOPERASTINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006200932",
+    "name": "SOLARDRIL — 80,0 MG/ML + 1,0 MG/ML + 10,0 MG/ML LOC CT FR PLAS OPC X 120 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006200932",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006200932",
+    "registration": "1049714730015",
+    "ingredient": "CALAMINA;CÂNFORA;CLORIDRATO DE DIFENIDRAMINA",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015517069",
+    "name": "SONRIDOR CAF — (500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 60",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015517069",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015517069",
+    "registration": "1929000060160",
+    "ingredient": "CAFEÍNA ANIDRA;PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015525231",
+    "name": "SONRISAL — (325 + 1644 + 1507,8 + 400) MG COM EFEV CT STR AL PLAS X 60  (SBR LIMÃO)",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015525231",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015525231",
+    "registration": "1929000110060",
+    "ingredient": "ACIDO ACETILSALICILICO;ACIDO CITRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896015520533",
+    "name": "SONRISAL — (325 + 1854 + 1413 + 400) MG COM EFEV CT STR AL PLAS X 60 ",
+    "brand": "PF CONSUMER HEALTHCARE BRAZIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015520533",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015520533",
+    "registration": "1929000110052",
+    "ingredient": "ACIDO ACETILSALICILICO;ÁCIDO CÍTRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896331701036",
+    "name": "STILGRIP — 400 MG + 4 MG + 4 MG PO SOL OR CT 50 ENV AL PLAS PE X 5 G",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331701036",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331701036",
+    "registration": "1068900490068",
+    "ingredient": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891035010958",
+    "name": "STREPSILS — 8,75 MG PAS DURA CT BL AL PLAS  PVC/PVDC OPC X 8 (SBR LARANJA)",
+    "brand": "RECKITT BENCKISER (BRASIL) LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891035010958",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891035010958",
+    "registration": "1739000030096",
+    "ingredient": "FLURBIPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891035010842",
+    "name": "STREPSILS — 8,75 MG PAS DURA CT BL AL PLAS  PVC/PVDC OPC X 8 (SBR MEL + LIMÃO)",
+    "brand": "RECKITT BENCKISER (BRASIL) LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891035010842",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891035010842",
+    "registration": "1739000030029",
+    "ingredient": "FLURBIPROFENO",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006214601",
+    "name": "SULFATO DE NEOMICINA + BACITRACINA ZÍNCICA — 5 MG/G + 250 UI/G POM DERM CT BG AL X 10 G",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006214601",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006214601",
+    "registration": "1049714570018",
+    "ingredient": "SULFATO DE NEOMICINA;BACITRACINA ZÍNCICA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896094906594",
+    "name": "TAMARINE — (29,268 + 23,400)MG CAP DURA CT BL AL PLAS PVC/PVDC TRANS X 20",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896094906594",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896094906594",
+    "registration": "1781700230110",
+    "ingredient": "SENNA ALEXANDRINA MILL.;CASSIA FISTULA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896179850040",
+    "name": "TAMARINE — (14,634+11,700) MG CAP DURA CT BL AL PLAS PVC TRANS X 20",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896179850040",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896179850040",
+    "registration": "1781700230048",
+    "ingredient": "SENNA ALEXANDRINA MILL.;CASSIA FISTULA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7897322709789",
+    "name": "TAMARINE — (4,878 + 4,719) MG GEL OR CT FR PLAS PEAD OPC X 150 G + COL (SUCRALOSE)",
+    "brand": "COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897322709789",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897322709789",
+    "registration": "1781700230161",
+    "ingredient": "SENNA ALEXANDRINA MILL.;CASSIA FISTULA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896112116929",
+    "name": "TEUTOVIT E — 400 MG CAP MOLE CT FR PLAS  PEAD OPC X 30",
+    "brand": "LABORATORIO TEUTO BRASILEIRO S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896112116929",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896112116929",
+    "registration": "1037002720031",
+    "ingredient": "ACETATO DE RACEALFATOCOFEROL",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891010256609",
+    "name": "TYLENOL — 500 MG COM REV CT BL AL PVC X 10 ",
+    "brand": "KENVUE LTDA.",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010256609",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010256609",
+    "registration": "1572112140127",
+    "ingredient": "PARACETAMOL",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7891010246235",
+    "name": "TYLENOL — 750 MG COM REV CT BL AL PLAS TRANS X 10",
+    "brand": "JANSSEN-CILAG FARMACEUTICA LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010246235",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010246235",
+    "registration": "1123633261050",
+    "ingredient": "PARACETAMOL",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": true
+  },
+  {
+    "ean": "7896331705591",
+    "name": "UNHA SANA — 50 MG/ML ESM DERM CT FR VD AMB X 2,5 ML + 10 ESP",
+    "brand": "KLEY HERTZ FARMACEUTICA S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331705591",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331705591",
+    "registration": "1068902030013",
+    "ingredient": "CLORIDRATO DE AMOROLFINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7899470803975",
+    "name": "VARIVAX — 300 MG COM REV CX BL AL PLAS TRANS X 30",
+    "brand": "NATULAB LABORATORIO S.A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899470803975",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899470803975",
+    "registration": "1384100430088",
+    "ingredient": "AESCULUS HIPPOCASTANUM L.",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7501007447285",
+    "name": "VICK PYRENA — 500 MG PO SOL OR CT 50 ENV AL PLAS PE X 5 G (SBR CAMOMILA)",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7501007447285",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7501007447285",
+    "registration": "1214200010121",
+    "ingredient": "PARACETAMOL",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896093001030",
+    "name": "VICK VAPORUB — 28,2MG/G+52,6MG/G+13,3MG/G POM CT PT MET AL X 12 G",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896093001030",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896093001030",
+    "registration": "1214200090011",
+    "ingredient": "LEVOMENTOL;ÓLEO DE EUCALIPTO;CÂNFORA (2-BORNANONA)",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7590002032817",
+    "name": "VICK VAPORUB — 28,2 MG/G + 52,6 MG/G + 13,3 MG/G POM CT PT PLAS OPC X 30 G",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7590002032817",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7590002032817",
+    "registration": "1214200090117",
+    "ingredient": "LEVOMENTOL;ÓLEO DE EUCALIPTO;CÂNFORA (2-BORNANONA)",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7590002012468",
+    "name": "VICK VAPORUB — 28,2MG/G+52,6MG/G+13,3MG/G POM CT PT PLAS OPC X 50 G",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7590002012468",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7590002012468",
+    "registration": "1214200090044",
+    "ingredient": "LEVOMENTOL;ÓLEO DE EUCALIPTO;CÂNFORA (2-BORNANONA)",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7500435209786",
+    "name": "XAROPE VICK — 16 MG/ML XPE FR PLAS TRANS X 100 ML ( MEL) ",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435209786",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435209786",
+    "registration": "1214200150055",
+    "ingredient": "GUAIFENESINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7500435153072",
+    "name": "XAROPE VICK — 13,3 MG/ML XPE FR PLAS TRANS X 120 ML ",
+    "brand": "PROCTER & GAMBLE DO BRASIL LTDA",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435153072",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435153072",
+    "registration": "1214200150020",
+    "ingredient": "GUAIFENESINA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006205913",
+    "name": "VODOL — 20 MG/G SUS AER CT TB AL X 75G",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006205913",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006205913",
+    "registration": "1049713570014",
+    "ingredient": "NITRATO DE MICONAZOL",
+    "registration_status": [
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006297710",
+    "name": "XANTINON COMPLEX — 40MG/ML + 53MG/ML + 50MG/ML SOL OR CT 6 FLAC PLAS PP TRANS X 10ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006297710",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006297710",
+    "registration": "1049714660092",
+    "ingredient": "ACETILRACEMETIONINA;CITRATO DE COLINA;BETAÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896006216605",
+    "name": "XANTINON COMPLEX — 40MG/ML + 53MG/ML + 50MG/ML SOL OR CT FR VD AMB X 100 ML",
+    "brand": "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896006216605",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896006216605",
+    "registration": "1049714660017",
+    "ingredient": "ACETILRACEMETIONINA;CITRATO DE COLINA;BETAÍNA",
+    "registration_status": [
+      "Ativo",
+      "Inativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  },
+  {
+    "ean": "7896004770222",
+    "name": "CLOPE — 3,54 MG/ML XPE CT FR PLAS AMB X 120 ML + COP",
+    "brand": "EMS S/A",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896004770222",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896004770222",
+    "registration": "1023513230038",
+    "ingredient": "FENDIZOATO DE CLOPERASTINA",
+    "registration_status": [
+      "Ativo"
+    ],
+    "pending": [
+      "Bula, indicação e advertências por apresentação"
+    ],
+    "ambiguous": false
+  }
+]

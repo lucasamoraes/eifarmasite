@@ -1,0 +1,4026 @@
+[
+  {
+    "ean": "7898422746759",
+    "name": "Sabonete Dove Original 90 g",
+    "category": "Corpo e banho",
+    "brand": "Dove",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898422746759",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898422746759"
+  },
+  {
+    "ean": "7899706187343",
+    "name": "Shampoo Elseve Hidra Hialurônico 200 ml",
+    "category": "Cabelos",
+    "brand": "L’Oréal Paris",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706187343",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706187343"
+  },
+  {
+    "ean": "7899706170833",
+    "name": "Shampoo Elseve Longo dos Sonhos 200 ml",
+    "category": "Cabelos",
+    "brand": "L’Oréal Paris",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706170833",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706170833"
+  },
+  {
+    "ean": "7500435125420",
+    "name": "Shampoo Pantene Liso Extremo 175 ml",
+    "category": "Cabelos",
+    "brand": "Pantene",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435125420",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435125420"
+  },
+  {
+    "ean": "7891024111444",
+    "name": "Creme dental Colgate Total 12 90 g",
+    "category": "Higiene bucal",
+    "brand": "Colgate",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024111444",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024111444"
+  },
+  {
+    "ean": "7891010501105",
+    "name": "Fio dental Johnson’s 100 m",
+    "category": "Higiene bucal",
+    "brand": "Johnson’s",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010501105",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010501105"
+  },
+  {
+    "ean": "4005808335435",
+    "name": "Hidratante corporal Nivea 200 ml",
+    "category": "Cuidados com a pele",
+    "brand": "Nivea",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808335435",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808335435"
+  },
+  {
+    "ean": "4005900950987",
+    "name": "Creme facial Nivea 100 g",
+    "category": "Cuidados com a pele",
+    "brand": "Nivea",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900950987",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900950987"
+  },
+  {
+    "ean": "7891150073098",
+    "name": "Desodorante Dove aerosol 150 ml",
+    "category": "Higiene pessoal",
+    "brand": "Dove",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150073098",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150073098"
+  },
+  {
+    "ean": "4005900707536",
+    "name": "Desodorante Nivea Men Deep 150 ml",
+    "category": "Higiene pessoal",
+    "brand": "Nivea",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900707536",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900707536"
+  },
+  {
+    "ean": "7891010793463",
+    "name": "Absorvente Sempre Livre suave 16 unidades",
+    "category": "Higiene pessoal",
+    "brand": "Sempre Livre",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010793463",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010793463"
+  },
+  {
+    "ean": "7891010032937",
+    "name": "Hastes flexíveis Cotonetes 150 unidades",
+    "category": "Higiene pessoal",
+    "brand": "Cotonetes",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010032937",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010032937"
+  },
+  {
+    "ean": "7500435127257",
+    "name": "ABS ALWAYS 16UN - SUAVE 13670",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435127257",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435127257"
+  },
+  {
+    "ean": "7506339326055",
+    "name": "ABS ALWAYS 32UN - SUAVE 58542",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506339326055",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506339326055"
+  },
+  {
+    "ean": "7500435126199",
+    "name": "ABS ALWAYS 32UN - SUAVE C/ ABA",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435126199",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435126199"
+  },
+  {
+    "ean": "7898067950948",
+    "name": "ABS CLIN OFF 8UN - SUAVE S/ AB",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898067950948",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898067950948"
+  },
+  {
+    "ean": "7898095297916",
+    "name": "ABS COT LINE NORMAL C/ABA SV 8",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898095297916",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898095297916"
+  },
+  {
+    "ean": "7896007542857",
+    "name": "ABS INTERNO INTIMUS 16UN - MIN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007542857",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007542857"
+  },
+  {
+    "ean": "7896007541850",
+    "name": "ABS INTERNO INTIMUS 8UN - MINI",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007541850",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007541850"
+  },
+  {
+    "ean": "7896007541874",
+    "name": "ABS INTERNO INTIMUS 8UN - SUPE",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007541874",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007541874"
+  },
+  {
+    "ean": "7896007549559",
+    "name": "ABS INTERNO INTIMUS 8UN 11733",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007549559",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007549559"
+  },
+  {
+    "ean": "7891010245597",
+    "name": "ABS INTERNO OB 8UN - MINI",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010245597",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010245597"
+  },
+  {
+    "ean": "7896007544059",
+    "name": "ABS INTIMUS 32UN - SECA C/ ABA",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007544059",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007544059"
+  },
+  {
+    "ean": "7896007540631",
+    "name": "ABS INTIMUS 8UN - SECA C/4083",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007540631",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007540631"
+  },
+  {
+    "ean": "7896007540624",
+    "name": "ABS INTIMUS 8UN - SECA S/ ABAS",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007540624",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007540624"
+  },
+  {
+    "ean": "7896007540617",
+    "name": "ABS INTIMUS 8UN - SUAVE C4084",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007540617",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007540617"
+  },
+  {
+    "ean": "7896007540600",
+    "name": "ABS INTIMUS 8UN - SUAVE S/ ABA",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007540600",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007540600"
+  },
+  {
+    "ean": "7891010704780",
+    "name": "ABS SEMPRE LIVRE 32UN - 16822",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010704780",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010704780"
+  },
+  {
+    "ean": "7891010503031",
+    "name": "ABS SEMPRE LIVRE 8UN - SUAVE S",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010503031",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010503031"
+  },
+  {
+    "ean": "7908615060347",
+    "name": "ACIDIFICANTE CAPILAR ELSEVE GL",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615060347",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615060347"
+  },
+  {
+    "ean": "7899572812134",
+    "name": "ACIDIFICANTE LOLA DENSIDADE 25",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572812134",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572812134"
+  },
+  {
+    "ean": "7896279127035",
+    "name": "AGUA COLONIA  100ML - BABY CAM",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896279127035",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896279127035"
+  },
+  {
+    "ean": "7896279127042",
+    "name": "AGUA COLONIA  100ML - BABY LAV",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896279127042",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896279127042"
+  },
+  {
+    "ean": "7898632472707",
+    "name": "AGUA MICELAR LABO.VIT.C 110ML",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898632472707",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898632472707"
+  },
+  {
+    "ean": "7899852022949",
+    "name": "AGUA MICELAR VULT FACIAL V2 20",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022949",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022949"
+  },
+  {
+    "ean": "7891800668179",
+    "name": "ALGODAO TOPZ ROLO 50GR",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891800668179",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891800668179"
+  },
+  {
+    "ean": "7896075709947",
+    "name": "ALICATE CUTICULA MERHEJE 7227",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896075709947",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896075709947"
+  },
+  {
+    "ean": "7500435251938",
+    "name": "APAR.GILLETTE VEN.SUAVE 12X1",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435251938",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435251938"
+  },
+  {
+    "ean": "7500435160759",
+    "name": "APARELHO BARBEAR GILLETT21294",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435160759",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435160759"
+  },
+  {
+    "ean": "7500435172561",
+    "name": "APARELHO BARBEAR GILLETT22487",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435172561",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435172561"
+  },
+  {
+    "ean": "7702018072392",
+    "name": "APARELHO BARBEAR GILLETTE6332",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7702018072392",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7702018072392"
+  },
+  {
+    "ean": "7500435178600",
+    "name": "APARELHO DEPILATORIO GILLETTE",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435178600",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435178600"
+  },
+  {
+    "ean": "7500435186698",
+    "name": "APARELHO GILLETTE PRESTO 2 ULT",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435186698",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435186698"
+  },
+  {
+    "ean": "7898614308512",
+    "name": "BASE CONCRETO 8ML",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614308512",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614308512"
+  },
+  {
+    "ean": "7899852019048",
+    "name": "BASE LIQUIDA VULT NANO HD CO01",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852019048",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852019048"
+  },
+  {
+    "ean": "7899852019406",
+    "name": "BASE LIQUIDA VULT NANO HD COR",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852019406",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852019406"
+  },
+  {
+    "ean": "7899852019376",
+    "name": "BASE VULT 26ML - HD NANO V250",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852019376",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852019376"
+  },
+  {
+    "ean": "7899852018218",
+    "name": "BATOM  3,6G - HIDRALIPS MACADA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852018218",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852018218"
+  },
+  {
+    "ean": "7899852018270",
+    "name": "BATOM  3,6G - HIDRALIPS ROSA I",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852018270",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852018270"
+  },
+  {
+    "ean": "7899852018126",
+    "name": "BATOM  3,8G - MATTELIPS CASTAN",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852018126",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852018126"
+  },
+  {
+    "ean": "7899852022475",
+    "name": "BATOM LIQUIDO VULT MATTE NAN01",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022475",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022475"
+  },
+  {
+    "ean": "7899852022444",
+    "name": "BATOM LIQUIDO VULT MATTE NANO",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022444",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022444"
+  },
+  {
+    "ean": "7899852018102",
+    "name": "BATOM VULT MATTE LIPS ROSE 4GR",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852018102",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852018102"
+  },
+  {
+    "ean": "7899706179560",
+    "name": "BB CREAM  30ML - FPS50 E20732",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706179560",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706179560"
+  },
+  {
+    "ean": "7899706184427",
+    "name": "BB CREAM  30ML - FPS50 EFEITO",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706184427",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706184427"
+  },
+  {
+    "ean": "7899852024264",
+    "name": "BLUSH COMP VULT COMP MALVA MAT",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024264",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024264"
+  },
+  {
+    "ean": "7899852021904",
+    "name": "BLUSH COMP VULT COMP ROSA MATT",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852021904",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852021904"
+  },
+  {
+    "ean": "7897947616882",
+    "name": "CARMED LABIAL",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897947616882",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897947616882"
+  },
+  {
+    "ean": "7898614309519",
+    "name": "CHOCOLATE 8ML CREM",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614309519",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614309519"
+  },
+  {
+    "ean": "7891010031350",
+    "name": "COLONIA JOHNSONS BABY 200ML -",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010031350",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010031350"
+  },
+  {
+    "ean": "7908966527117",
+    "name": "COND ELSEVE COLAGENO 200ML-DEM",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908966527117",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908966527117"
+  },
+  {
+    "ean": "7908966527193",
+    "name": "COND ELSEVE COLAGENO 400ML-DEM",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908966527193",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908966527193"
+  },
+  {
+    "ean": "7896227690314",
+    "name": "COND SNOOPY BABY 200ML TOQUE D",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227690314",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227690314"
+  },
+  {
+    "ean": "7896227690345",
+    "name": "CONDICIONADOR BABY 200ML - SNO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227690345",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227690345"
+  },
+  {
+    "ean": "7891150102767",
+    "name": "CONDICIONADOR DOVE REPAIR GLOW",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150102767",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150102767"
+  },
+  {
+    "ean": "7899706187404",
+    "name": "CONDICIONADOR ELSEVE 20021736",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706187404",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706187404"
+  },
+  {
+    "ean": "7899706197564",
+    "name": "CONDICIONADOR ELSEVE 20025864",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706197564",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706197564"
+  },
+  {
+    "ean": "7896014123902",
+    "name": "CONDICIONADOR ELSEVE 200M5054",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896014123902",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896014123902"
+  },
+  {
+    "ean": "7908615055145",
+    "name": "CONDICIONADOR ELSEVE 200ML - G",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615055145",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615055145"
+  },
+  {
+    "ean": "7899706170857",
+    "name": "CONDICIONADOR ELSEVE 200ML - L",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706170857",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706170857"
+  },
+  {
+    "ean": "7898587774352",
+    "name": "CONDICIONADOR ELSEVE 200ML - O",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898587774352",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898587774352"
+  },
+  {
+    "ean": "7899706244084",
+    "name": "CONDICIONADOR ELSEVE 200ML - P",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706244084",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706244084"
+  },
+  {
+    "ean": "7899026420571",
+    "name": "CONDICIONADOR ELSEVE 200ML - R",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899026420571",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899026420571"
+  },
+  {
+    "ean": "7908615092973",
+    "name": "CONDICIONADOR ELSEVE BOND REPA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615092973",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615092973"
+  },
+  {
+    "ean": "7908785461654",
+    "name": "CONDICIONADOR ELSEVE LISO DOS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908785461654",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908785461654"
+  },
+  {
+    "ean": "7891033930470",
+    "name": "CONDICIONADOR EUDORA SIA24383",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033930470",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033930470"
+  },
+  {
+    "ean": "7891033925643",
+    "name": "CONDICIONADOR EUDORA SIA25957",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033925643",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033925643"
+  },
+  {
+    "ean": "7891033471768",
+    "name": "CONDICIONADOR EUDORA SIA31655",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033471768",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033471768"
+  },
+  {
+    "ean": "7896018700314",
+    "name": "CONDICIONADOR HUGGIES 200ML -",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896018700314",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896018700314"
+  },
+  {
+    "ean": "7891010980085",
+    "name": "CONDICIONADOR JOHNSONS BA5003",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010980085",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010980085"
+  },
+  {
+    "ean": "7891010030452",
+    "name": "CONDICIONADOR JOHNSONS BA5536",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010030452",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010030452"
+  },
+  {
+    "ean": "7891010047184",
+    "name": "CONDICIONADOR JOHNSONS BA5546",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010047184",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010047184"
+  },
+  {
+    "ean": "7891010601188",
+    "name": "CONDICIONADOR JOHNSONS BA6675",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010601188",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010601188"
+  },
+  {
+    "ean": "7899572806768",
+    "name": "CONDICIONADOR LOLA 500G - MEU",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572806768",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572806768"
+  },
+  {
+    "ean": "7899572815661",
+    "name": "CONDICIONADOR LOLA BASICAO 250",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572815661",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572815661"
+  },
+  {
+    "ean": "7899572805365",
+    "name": "CONDICIONADOR LOLA MORTE SUBIT",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572805365",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572805365"
+  },
+  {
+    "ean": "7908324404135",
+    "name": "CONDICIONADOR OX 240ML - COLAG",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324404135",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324404135"
+  },
+  {
+    "ean": "7908324402490",
+    "name": "CONDICIONADOR OX 240ML - HIALU",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324402490",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324402490"
+  },
+  {
+    "ean": "7897664168251",
+    "name": "CONDICIONADOR OX RESTAURA 400M",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897664168251",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897664168251"
+  },
+  {
+    "ean": "7891033519354",
+    "name": "CONDICIONADOR PAMPERS 200ML -",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033519354",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033519354"
+  },
+  {
+    "ean": "7500435196994",
+    "name": "CONDICIONADOR PANTENE 1524961",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435196994",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435196994"
+  },
+  {
+    "ean": "7500435232784",
+    "name": "CONDICIONADOR PANTENE 1559812",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435232784",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435232784"
+  },
+  {
+    "ean": "7500435125413",
+    "name": "CONDICIONADOR PANTENE 1711612",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435125413",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435125413"
+  },
+  {
+    "ean": "7500435125482",
+    "name": "CONDICIONADOR PANTENE 1711654",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435125482",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435125482"
+  },
+  {
+    "ean": "7898623951938",
+    "name": "CONDICIONADOR SALON LINE13653",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898623951938",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898623951938"
+  },
+  {
+    "ean": "7896115700194",
+    "name": "CONDICIONADOR TRALALA 4805632",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896115700194",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896115700194"
+  },
+  {
+    "ean": "7896115700026",
+    "name": "CONDICIONADOR TRALALA 480ML -",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896115700026",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896115700026"
+  },
+  {
+    "ean": "7891150100329",
+    "name": "CONDICIONADOR TRESEMME BLINDAG",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150100329",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150100329"
+  },
+  {
+    "ean": "7899852019147",
+    "name": "CORRETIVO LIQUIDO VULT NANO 01",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852019147",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852019147"
+  },
+  {
+    "ean": "7899852019185",
+    "name": "CORRETIVO LIQUIDO VULT NANO HD",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852019185",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852019185"
+  },
+  {
+    "ean": "7898095296476",
+    "name": "COT LENCOS UMED COTTON POT C/7",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898095296476",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898095296476"
+  },
+  {
+    "ean": "7908966528534",
+    "name": "CR PENT ELSEVE COLAGENO 250ML-",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908966528534",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908966528534"
+  },
+  {
+    "ean": "7908966528367",
+    "name": "CR TRAT ELSEVE COLAGENO 300G-D",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908966528367",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908966528367"
+  },
+  {
+    "ean": "7908615000244",
+    "name": "CREME CICAPLAST BAUME B5 40ML",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615000244",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615000244"
+  },
+  {
+    "ean": "7908615000169",
+    "name": "CREME CICAPLAST BAUME B5 TUBO",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615000169",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615000169"
+  },
+  {
+    "ean": "7908785461456",
+    "name": "CREME DE TRATAMENTO ELSEVE LIS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908785461456",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908785461456"
+  },
+  {
+    "ean": "7891024132906",
+    "name": "CREME DENTAL COLGATE 50G - MAX",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024132906",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024132906"
+  },
+  {
+    "ean": "7506295388487",
+    "name": "CREME DENTAL ORAL B 70G - 3D W",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506295388487",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506295388487"
+  },
+  {
+    "ean": "7896015528300",
+    "name": "CREME DENTAL SENSODYNE 90G - A",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015528300",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015528300"
+  },
+  {
+    "ean": "7896015591106",
+    "name": "CREME DENTAL SENSODYNE 90G - L",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015591106",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015591106"
+  },
+  {
+    "ean": "7896009419324",
+    "name": "CREME DENTAL SENSODYNE 90G - O",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896009419324",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896009419324"
+  },
+  {
+    "ean": "7899706197663",
+    "name": "CREME ELSEVE NOTURNO CACHOS DO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706197663",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706197663"
+  },
+  {
+    "ean": "4005900079664",
+    "name": "CREME FACIAL NIVEA 50G -21720",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900079664",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900079664"
+  },
+  {
+    "ean": "7908615060668",
+    "name": "CREME MILAGROSO ELSEVE 3 EM 01",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615060668",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615060668"
+  },
+  {
+    "ean": "7908615060620",
+    "name": "CREME MILAGROSO ELSEVE 3 EM 1",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615060620",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615060620"
+  },
+  {
+    "ean": "7898965666552",
+    "name": "CREME PENTEAR DABELLE CACHOS D",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898965666552",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898965666552"
+  },
+  {
+    "ean": "7899706187466",
+    "name": "CREME PENTEAR ELSEVE 25021737",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706187466",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706187466"
+  },
+  {
+    "ean": "7908615059983",
+    "name": "CREME PENTEAR ELSEVE 250ML - G",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615059983",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615059983"
+  },
+  {
+    "ean": "7899706170895",
+    "name": "CREME PENTEAR ELSEVE 250ML - L",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706170895",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706170895"
+  },
+  {
+    "ean": "7899026420595",
+    "name": "CREME PENTEAR ELSEVE 250ML - R",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899026420595",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899026420595"
+  },
+  {
+    "ean": "7908785461500",
+    "name": "CREME PENTEAR ELSEVE LISO DOS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908785461500",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908785461500"
+  },
+  {
+    "ean": "7899572809844",
+    "name": "CREME PENTEAR LOLA 450G - MILA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572809844",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572809844"
+  },
+  {
+    "ean": "7908458326785",
+    "name": "CREME PENTEAR SALON LINE ATIVA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908458326785",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908458326785"
+  },
+  {
+    "ean": "7908458326778",
+    "name": "CREME PENTEAR SALON LINE DEF01",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908458326778",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908458326778"
+  },
+  {
+    "ean": "7908458332717",
+    "name": "CREME PENTEAR SALON LINE DEFIN",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908458332717",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908458332717"
+  },
+  {
+    "ean": "7908458317165",
+    "name": "CREME PENTEAR SALON LINE26922",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908458317165",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908458317165"
+  },
+  {
+    "ean": "7897042006021",
+    "name": "CREME TRATAMENTO  1KG - LAMA N",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897042006021",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897042006021"
+  },
+  {
+    "ean": "7899706197489",
+    "name": "CREME TRATAMENTO ELSEVE 25867",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706197489",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706197489"
+  },
+  {
+    "ean": "7908615053110",
+    "name": "CREME TRATAMENTO ELSEVE 59929",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615053110",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615053110"
+  },
+  {
+    "ean": "7908615092959",
+    "name": "CREME TRATAMENTO ELSEVE BOND R",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615092959",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615092959"
+  },
+  {
+    "ean": "7899852022246",
+    "name": "DELINEADOR LIQUIDO VULT PRET01",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022246",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022246"
+  },
+  {
+    "ean": "7891150073081",
+    "name": "DES AERO DOVE 150ML - ME21932",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150073081",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150073081"
+  },
+  {
+    "ean": "7891150087347",
+    "name": "DES AERO DOVE 150ML - ME26998",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150087347",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150087347"
+  },
+  {
+    "ean": "7791293018874",
+    "name": "DES AERO DOVE 150ML - MEN6496",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791293018874",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791293018874"
+  },
+  {
+    "ean": "7891150063747",
+    "name": "DES AERO DOVE 150ML - WO24374",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150063747",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150063747"
+  },
+  {
+    "ean": "7791293008141",
+    "name": "DES AERO DOVE 150ML - WOMEN OR",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791293008141",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791293008141"
+  },
+  {
+    "ean": "7891150081222",
+    "name": "DES AERO DOVE 250ML - ME25151",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150081222",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150081222"
+  },
+  {
+    "ean": "7891150081239",
+    "name": "DES AERO DOVE 250ML - WOMEN OR",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150081239",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150081239"
+  },
+  {
+    "ean": "7791969016029",
+    "name": "DES AERO NIVEA 150ML - MEN DRY",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791969016029",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791969016029"
+  },
+  {
+    "ean": "4005900396938",
+    "name": "DES AERO NIVEA 150ML - MEN ORI",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900396938",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900396938"
+  },
+  {
+    "ean": "7791969029807",
+    "name": "DES AERO NIVEA 150ML - MEN SEN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791969029807",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791969029807"
+  },
+  {
+    "ean": "4005900950925",
+    "name": "DES AERO NIVEA 150ML - W26448",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900950925",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900950925"
+  },
+  {
+    "ean": "4005900937520",
+    "name": "DES AERO NIVEA 150ML - W26454",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900937520",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900937520"
+  },
+  {
+    "ean": "4005900122186",
+    "name": "DES AERO NIVEA 150ML - WO8038",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900122186",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900122186"
+  },
+  {
+    "ean": "4005900429643",
+    "name": "DES AERO NIVEA 150ML - WOMEN B",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900429643",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900429643"
+  },
+  {
+    "ean": "4005900036667",
+    "name": "DES AERO NIVEA 150ML - WOMEN I",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900036667",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900036667"
+  },
+  {
+    "ean": "4005808837311",
+    "name": "DES AERO NIVEA 150ML - WOMEN P",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808837311",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808837311"
+  },
+  {
+    "ean": "4005900705143",
+    "name": "DES AERO NIVEA 200ML - WOMEN P",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900705143",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900705143"
+  },
+  {
+    "ean": "7506339390315",
+    "name": "DES AERO OLD SPICE 150ML - LEN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506339390315",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506339390315"
+  },
+  {
+    "ean": "7506339315950",
+    "name": "DES AERO OLD SPICE 150ML - MAT",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506339315950",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506339315950"
+  },
+  {
+    "ean": "7500435135030",
+    "name": "DES AERO OLD SPICE 150ML - PEG",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435135030",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435135030"
+  },
+  {
+    "ean": "7791293032467",
+    "name": "DES AERO REXONA 150ML - 10349",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791293032467",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791293032467"
+  },
+  {
+    "ean": "7791293032443",
+    "name": "DES AERO REXONA 150ML - 10506",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791293032443",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791293032443"
+  },
+  {
+    "ean": "7506306244184",
+    "name": "DES AERO REXONA 150ML - 11032",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506306244184",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506306244184"
+  },
+  {
+    "ean": "7506306244177",
+    "name": "DES AERO REXONA 150ML - 11035",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506306244177",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506306244177"
+  },
+  {
+    "ean": "7791293022567",
+    "name": "DES AERO REXONA 150ML - MEN V8",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7791293022567",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7791293022567"
+  },
+  {
+    "ean": "7891150081260",
+    "name": "DES AERO REXONA 250ML - 25645",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150081260",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150081260"
+  },
+  {
+    "ean": "7891150081307",
+    "name": "DES AERO REXONA 250ML - MEN AC",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150081307",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150081307"
+  },
+  {
+    "ean": "7891150081253",
+    "name": "DES AERO REXONA 250ML - WOMEN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150081253",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150081253"
+  },
+  {
+    "ean": "7506306214972",
+    "name": "DES AERO REXONA CLINICAL16296",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506306214972",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506306214972"
+  },
+  {
+    "ean": "7891150068735",
+    "name": "DES AERO REXONA CLINICAL17569",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150068735",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150068735"
+  },
+  {
+    "ean": "7896049528567",
+    "name": "DES CREME HERBISSIMO 55G - SEN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896049528567",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896049528567"
+  },
+  {
+    "ean": "7500435011150",
+    "name": "DES GEL GILLETTE 45G - MEN CLI",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435011150",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435011150"
+  },
+  {
+    "ean": "7500435129947",
+    "name": "DES GEL GILLETTE 45G - MEN COO",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435129947",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435129947"
+  },
+  {
+    "ean": "7702018913664",
+    "name": "DES GEL GILLETTE 82G - MEN COO",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7702018913664",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7702018913664"
+  },
+  {
+    "ean": "4005900130785",
+    "name": "DES ROLLON NIVEA 50ML - W8085",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900130785",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900130785"
+  },
+  {
+    "ean": "7500435143196",
+    "name": "DES ROLLON SECRET 45G - BARRA",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435143196",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435143196"
+  },
+  {
+    "ean": "7896115704109",
+    "name": "DES ROLLON TRALALA 65ML - SEM",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896115704109",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896115704109"
+  },
+  {
+    "ean": "7899674027627",
+    "name": "DESODORANTE AEROSOL BRUT ATITU",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899674027627",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899674027627"
+  },
+  {
+    "ean": "7899674021601",
+    "name": "DESODORANTE AEROSOL BRUT RINDO",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899674021601",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899674021601"
+  },
+  {
+    "ean": "7899674021359",
+    "name": "DESODORANTE AEROSOL BRUT SPORT",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899674021359",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899674021359"
+  },
+  {
+    "ean": "7896235354482",
+    "name": "DESODORANTE AEROSOL MONANGE FR",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354482",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354482"
+  },
+  {
+    "ean": "7896235354475",
+    "name": "DESODORANTE AEROSOL MONANGE HI",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354475",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354475"
+  },
+  {
+    "ean": "4006000010311",
+    "name": "DESODORANTE AEROSOL NIVEA LV+",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4006000010311",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4006000010311"
+  },
+  {
+    "ean": "7898972821081",
+    "name": "DESODORANTE CORPORAL EKOPURE B",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898972821081",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898972821081"
+  },
+  {
+    "ean": "7898972821098",
+    "name": "DESODORANTE CORPORAL EKOPURE01",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898972821098",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898972821098"
+  },
+  {
+    "ean": "7898972821203",
+    "name": "DESODORANTE CORPORAL EKOPURE02",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898972821203",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898972821203"
+  },
+  {
+    "ean": "7898972821234",
+    "name": "DESODORANTE CORPORAL EKOPURE03",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898972821234",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898972821234"
+  },
+  {
+    "ean": "7898972821227",
+    "name": "DESODORANTE CORPORAL EKOPURE06",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898972821227",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898972821227"
+  },
+  {
+    "ean": "7898972821197",
+    "name": "DESODORANTE CORPORAL EKOPURE07",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898972821197",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898972821197"
+  },
+  {
+    "ean": "7898632475227",
+    "name": "DESODORANTE CORPORAL LABOTRA01",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898632475227",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898632475227"
+  },
+  {
+    "ean": "7891350045727",
+    "name": "DESODORANTE CORPORAL PAIXAO 01",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891350045727",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891350045727"
+  },
+  {
+    "ean": "7891350045710",
+    "name": "DESODORANTE CORPORAL PAIXAO BO",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891350045710",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891350045710"
+  },
+  {
+    "ean": "7891150102811",
+    "name": "DESODORANTE CREME CORPORAL D01",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150102811",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150102811"
+  },
+  {
+    "ean": "7891150096790",
+    "name": "DESODORANTE CREME DOVE PREVI01",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096790",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096790"
+  },
+  {
+    "ean": "7891150094741",
+    "name": "DESODORANTE CREME DOVE REPARAC",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150094741",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150094741"
+  },
+  {
+    "ean": "7891653014260",
+    "name": "DESODORANTE INTIMO VAGISIL JAS",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891653014260",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891653014260"
+  },
+  {
+    "ean": "7500435170024",
+    "name": "DESODORANTE SECRET GEL INVISIB",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435170024",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435170024"
+  },
+  {
+    "ean": "7898614308222",
+    "name": "DIVA GLITTER 8ML",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614308222",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614308222"
+  },
+  {
+    "ean": "7908615055183",
+    "name": "ELIXIR ELSEVE 100ML - GLYCOLIC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615055183",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615055183"
+  },
+  {
+    "ean": "7891055317303",
+    "name": "ESCOVA DENTAL  - MACIA DINOSSA",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891055317303",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891055317303"
+  },
+  {
+    "ean": "7891055337318",
+    "name": "ESCOVA DENTAL  - PLUS MEDIA",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891055337318",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891055337318"
+  },
+  {
+    "ean": "7896114312879",
+    "name": "ESCOVA DENTAL BITUFO COCORICO",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896114312879",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896114312879"
+  },
+  {
+    "ean": "7891024184509",
+    "name": "ESCOVA DENTAL COLGATE - CLASSI",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024184509",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024184509"
+  },
+  {
+    "ean": "5900273001566",
+    "name": "ESCOVA DENTAL COLGATE - EXTRA",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/5900273001566",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/5900273001566"
+  },
+  {
+    "ean": "6910021007206",
+    "name": "ESCOVA DENTAL COLGATE - PREMIE",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/6910021007206",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/6910021007206"
+  },
+  {
+    "ean": "7891024008799",
+    "name": "ESCOVA DENTAL COLGATE 2UN - TA",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024008799",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024008799"
+  },
+  {
+    "ean": "7891024073070",
+    "name": "ESCOVA DENTAL COLGATE SLIM SOF",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024073070",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024073070"
+  },
+  {
+    "ean": "7509546658223",
+    "name": "ESCOVA DENTAL COLGATE ZIG ZAG",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7509546658223",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7509546658223"
+  },
+  {
+    "ean": "7897517925741",
+    "name": "ESCOVA DENTAL KESS - MASTER MA",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897517925741",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897517925741"
+  },
+  {
+    "ean": "7897517925734",
+    "name": "ESCOVA DENTAL KESS - MASTER ME",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897517925734",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897517925734"
+  },
+  {
+    "ean": "7897517921071",
+    "name": "ESCOVA DENTAL KESS - PRO 10K E",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897517921071",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897517921071"
+  },
+  {
+    "ean": "7897517920876",
+    "name": "ESCOVA DENTAL KESS - PRO CONFO",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897517920876",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897517920876"
+  },
+  {
+    "ean": "7500435024594",
+    "name": "ESCOVA DENTAL ORAL B 2UN - IND",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435024594",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435024594"
+  },
+  {
+    "ean": "7500435014359",
+    "name": "ESCOVA DENTAL ORAL B 3UN - LIM",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435014359",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435014359"
+  },
+  {
+    "ean": "7896015530082",
+    "name": "ESCOVA DENTAL SENSODYNE - GENT",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015530082",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015530082"
+  },
+  {
+    "ean": "7896015591359",
+    "name": "ESCOVA DENTAL SENSODYNE 2UN -",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896015591359",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896015591359"
+  },
+  {
+    "ean": "7898946253320",
+    "name": "ESM  8ML - CINTILANTE BRANCO",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946253320",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946253320"
+  },
+  {
+    "ean": "7898946252255",
+    "name": "ESM  8ML - CINTILANTE DONA FLO",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252255",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252255"
+  },
+  {
+    "ean": "7898946252378",
+    "name": "ESM  8ML - CINTILANTE PRATA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252378",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252378"
+  },
+  {
+    "ean": "7898946252774",
+    "name": "ESM  8ML - CREMOSO 40GRAUS",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252774",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252774"
+  },
+  {
+    "ean": "7898614303647",
+    "name": "ESM  8ML - CREMOSO ASA-DELTA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614303647",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614303647"
+  },
+  {
+    "ean": "7898946253252",
+    "name": "ESM  8ML - CREMOSO CONHAQUE",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946253252",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946253252"
+  },
+  {
+    "ean": "7898946252354",
+    "name": "ESM  8ML - CREMOSO GABRIELA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252354",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252354"
+  },
+  {
+    "ean": "7898946252057",
+    "name": "ESM  8ML - GLITTER CONSTELACAO",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252057",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252057"
+  },
+  {
+    "ean": "7898946253375",
+    "name": "ESM  8ML - GLITTER PURPURINA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946253375",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946253375"
+  },
+  {
+    "ean": "7898946253450",
+    "name": "ESM  8ML - PEROLADO GRECIA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946253450",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946253450"
+  },
+  {
+    "ean": "7898946252798",
+    "name": "ESM  8ML - TRANSPARENTE 21653",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252798",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252798"
+  },
+  {
+    "ean": "7898946252392",
+    "name": "ESM  8ML - TRANSPARENTE INCOLO",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252392",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252392"
+  },
+  {
+    "ean": "7898946252989",
+    "name": "ESM  8ML - TRANSPARENTE NUVEM",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252989",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252989"
+  },
+  {
+    "ean": "7898614302329",
+    "name": "ESM TOQUE 8ML - CREMOSO AMEI",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614302329",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614302329"
+  },
+  {
+    "ean": "7898946252033",
+    "name": "ESM TOQUE 8ML - CREMOSO AMEIXA",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252033",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252033"
+  },
+  {
+    "ean": "7898946252743",
+    "name": "ESM TOQUE 8ML - CREMOSO PRETO",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898946252743",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898946252743"
+  },
+  {
+    "ean": "7896444212702",
+    "name": "FIO DENTAL  50M - VEGANO HORTE",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896444212702",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896444212702"
+  },
+  {
+    "ean": "7896444212771",
+    "name": "FIO DENTAL  50M - VEGANO MENTA",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896444212771",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896444212771"
+  },
+  {
+    "ean": "7800005082024",
+    "name": "FIO DENTAL ORAL-B 50M - CERA E",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7800005082024",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7800005082024"
+  },
+  {
+    "ean": "7896061990885",
+    "name": "FRALDA BABYSEC GALINHA PINTA02",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896061990885",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896061990885"
+  },
+  {
+    "ean": "7896012880319",
+    "name": "FRALDA BIGFRAL GERIATRIC58013",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896012880319",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896012880319"
+  },
+  {
+    "ean": "7896012801888",
+    "name": "FRALDA BIGFRAL GERIATRICA NOTU",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896012801888",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896012801888"
+  },
+  {
+    "ean": "7898064036447",
+    "name": "FRALDA CREMER MAGIC CARE HIPER",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898064036447",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898064036447"
+  },
+  {
+    "ean": "7898064036454",
+    "name": "FRALDA CREMER MAGIC CARE16386",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898064036454",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898064036454"
+  },
+  {
+    "ean": "7898133019579",
+    "name": "FRALDA CREMER MAGIC CARE18847",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898133019579",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898133019579"
+  },
+  {
+    "ean": "7898133019807",
+    "name": "FRALDA CREMER MAGIC CARE25971",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898133019807",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898133019807"
+  },
+  {
+    "ean": "7896007553716",
+    "name": "FRALDA HUGGIES AZUL TRIPLA P01",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007553716",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007553716"
+  },
+  {
+    "ean": "7896007553709",
+    "name": "FRALDA HUGGIES AZUL TRIPLA PRO",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896007553709",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896007553709"
+  },
+  {
+    "ean": "7898656391572",
+    "name": "FRALDA MAMYPOKO CALCA AZUL S03",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898656391572",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898656391572"
+  },
+  {
+    "ean": "7898656391619",
+    "name": "FRALDA MAMYPOKO CALCA AZUL SUP",
+    "category": "Fraldas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898656391619",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898656391619"
+  },
+  {
+    "ean": "7891150096493",
+    "name": "GEL DE LIMPEZA FACIAL DOVE PUR",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096493",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096493"
+  },
+  {
+    "ean": "7891150096509",
+    "name": "GEL DE LIMPEZA FACIAL DOVE R01",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096509",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096509"
+  },
+  {
+    "ean": "7891150096486",
+    "name": "GEL DE LIMPEZA FACIAL DOVE R02",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096486",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096486"
+  },
+  {
+    "ean": "7891150096479",
+    "name": "GEL DE LIMPEZA FACIAL DOVE REG",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096479",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096479"
+  },
+  {
+    "ean": "7891528038810",
+    "name": "GEL DENTAL COLGATE 50G - 7180",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891528038810",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891528038810"
+  },
+  {
+    "ean": "7891528038827",
+    "name": "GEL DENTAL COLGATE 50G - 7181",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891528038827",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891528038827"
+  },
+  {
+    "ean": "7891528038834",
+    "name": "GEL DENTAL COLGATE 50G - TANDY",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891528038834",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891528038834"
+  },
+  {
+    "ean": "7899852021331",
+    "name": "GLOSS LABIAL  5,2ML - LI64726",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852021331",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852021331"
+  },
+  {
+    "ean": "7899852024837",
+    "name": "GLOSS VULT GLOSSY LIPS 24/7 PE",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024837",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024837"
+  },
+  {
+    "ean": "7896227620014",
+    "name": "HASTES FLEXIVEIS BABY 75UN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227620014",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227620014"
+  },
+  {
+    "ean": "7898924640012",
+    "name": "HASTES FLEXIVEIS BELLACOTTON 7",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898924640012",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898924640012"
+  },
+  {
+    "ean": "7891010560812",
+    "name": "HASTES FLEXIVEIS COTONETE6168",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010560812",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010560812"
+  },
+  {
+    "ean": "7891800646030",
+    "name": "HASTES FLEXIVEIS TOPZ 150UN -",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891800646030",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891800646030"
+  },
+  {
+    "ean": "7898583340018",
+    "name": "HENNA NIRAJ DESIGN SOMBRAC PRE",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583340018",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583340018"
+  },
+  {
+    "ean": "7896044954552",
+    "name": "HIDRATANTE  CHERRY 200ML",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896044954552",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896044954552"
+  },
+  {
+    "ean": "7896044954521",
+    "name": "HIDRATANTE  ROSA 200ML",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896044954521",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896044954521"
+  },
+  {
+    "ean": "7898919412327",
+    "name": "HIDRATANTE CORPORAL MONA29332",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898919412327",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898919412327"
+  },
+  {
+    "ean": "4005808309436",
+    "name": "HIDRATANTE CORPORAL NIVEA5406",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808309436",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808309436"
+  },
+  {
+    "ean": "7891150096578",
+    "name": "HIDRATANTE FACIAL DOVE NOTURNO",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096578",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096578"
+  },
+  {
+    "ean": "7898636190515",
+    "name": "HIDRATANTE GOICOECHEA DIABETTX",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898636190515",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898636190515"
+  },
+  {
+    "ean": "7896115700149",
+    "name": "HIDRATANTE INFANTIL TRA LA LA",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896115700149",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896115700149"
+  },
+  {
+    "ean": "7891010503505",
+    "name": "HIDRATANTE JOHNSONS BABY 200ML",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010503505",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010503505"
+  },
+  {
+    "ean": "7897947614734",
+    "name": "HIDRATANTE LABIAL CARMED 10G -",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897947614734",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897947614734"
+  },
+  {
+    "ean": "7897947600348",
+    "name": "HIDRATANTE LABIAL CARMED20707",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897947600348",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897947600348"
+  },
+  {
+    "ean": "7908615085418",
+    "name": "KIT ELSEVE SHAMPOO+CONDICION01",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615085418",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615085418"
+  },
+  {
+    "ean": "7908615017211",
+    "name": "KIT ELSEVE SHAMPOO+CONDICIONAD",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615017211",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615017211"
+  },
+  {
+    "ean": "7899706188302",
+    "name": "KIT ELSEVE SHAMPOO/COND HIDRA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706188302",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706188302"
+  },
+  {
+    "ean": "7899706164337",
+    "name": "KIT ELSEVE SHAMPOO/COND REPARA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706164337",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706164337"
+  },
+  {
+    "ean": "7898583340032",
+    "name": "KIT HENNA NIRAJ DESIGN CASTANH",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583340032",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583340032"
+  },
+  {
+    "ean": "7898583340056",
+    "name": "KIT HENNA NIRAJ DESIGN MARROM",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583340056",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583340056"
+  },
+  {
+    "ean": "7500435169356",
+    "name": "KIT PANTENE SHAMPOO/COND20522",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435169356",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435169356"
+  },
+  {
+    "ean": "7897947604384",
+    "name": "KIT SABONETE DERMAFEME 200ML -",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897947604384",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897947604384"
+  },
+  {
+    "ean": "7899572811731",
+    "name": "LEAVE IN CAPILAR LOLA 200ML -",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572811731",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572811731"
+  },
+  {
+    "ean": "7899706149822",
+    "name": "LEAVE IN TRATAMENTO ELSEVE 50M",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706149822",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706149822"
+  },
+  {
+    "ean": "7898095296452",
+    "name": "LENCO UMEDECIDO  70UN - BALDE",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898095296452",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898095296452"
+  },
+  {
+    "ean": "7896018700659",
+    "name": "LENCO UMEDECIDO HUGGIES 11891",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896018700659",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896018700659"
+  },
+  {
+    "ean": "7898677733887",
+    "name": "LIXA PES NOVO VISUAL",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898677733887",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898677733887"
+  },
+  {
+    "ean": "7898293491376",
+    "name": "LIXA PES NOVO VISUAL - PROFISS",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898293491376",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898293491376"
+  },
+  {
+    "ean": "7898677732927",
+    "name": "LIXA UNHAS NOVO VISUAL BLOCO P",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898677732927",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898677732927"
+  },
+  {
+    "ean": "7898677733467",
+    "name": "LIXA UNHAS NOVO VISUAL POP C/1",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898677733467",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898677733467"
+  },
+  {
+    "ean": "7891150095786",
+    "name": "LOCAO HIDRATANTE DOVE SERUM 01",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095786",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095786"
+  },
+  {
+    "ean": "7891150095823",
+    "name": "LOCAO HIDRATANTE DOVE SERUM 02",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095823",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095823"
+  },
+  {
+    "ean": "7891150095809",
+    "name": "LOCAO HIDRATANTE DOVE SERUM NI",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095809",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095809"
+  },
+  {
+    "ean": "7891150095861",
+    "name": "LOCAO HIDRATANTE DOVE SERUM PR",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095861",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095861"
+  },
+  {
+    "ean": "7891150095847",
+    "name": "LOCAO HIDRATANTE DOVE SERUM RE",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095847",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095847"
+  },
+  {
+    "ean": "7896369162380",
+    "name": "LOCAO HIDRATANTE HIDRAMA18779",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896369162380",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896369162380"
+  },
+  {
+    "ean": "7896235354086",
+    "name": "LOCAO HIDRATANTE PAIXAO 75G -",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354086",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354086"
+  },
+  {
+    "ean": "7891033016440",
+    "name": "MASCARA CAPILAR EUDORA S25203",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033016440",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033016440"
+  },
+  {
+    "ean": "7891033471775",
+    "name": "MASCARA CAPILAR EUDORA S31654",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033471775",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033471775"
+  },
+  {
+    "ean": "7899572803200",
+    "name": "MASCARA CAPILAR LOLA 450G - MO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572803200",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572803200"
+  },
+  {
+    "ean": "7899852000022",
+    "name": "MASCARA P/CILIOS  BOMBASTIC",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852000022",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852000022"
+  },
+  {
+    "ean": "7899852019826",
+    "name": "MASCARA P/CILIOS  SUPER LASHES",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852019826",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852019826"
+  },
+  {
+    "ean": "7901034000369",
+    "name": "OASIS CREM 8ML",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7901034000369",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7901034000369"
+  },
+  {
+    "ean": "7891317024833",
+    "name": "OAZ FIO DENTAL 100+25M",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317024833",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317024833"
+  },
+  {
+    "ean": "7891317024826",
+    "name": "OAZ FIO DENTAL 50+25M",
+    "category": "Higiene bucal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317024826",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317024826"
+  },
+  {
+    "ean": "7896509976532",
+    "name": "OLEO CAPILAR BEAUTY 40ML - RIC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896509976532",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896509976532"
+  },
+  {
+    "ean": "7899026478909",
+    "name": "OLEO CAPILAR ELSEVE 100ML5890",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899026478909",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899026478909"
+  },
+  {
+    "ean": "7898211383288",
+    "name": "OLEO CAPILAR FIXED 60ML - ALEC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898211383288",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898211383288"
+  },
+  {
+    "ean": "7899572810185",
+    "name": "OLEO CAPILAR LOLA 50ML -24986",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572810185",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572810185"
+  },
+  {
+    "ean": "7898556752473",
+    "name": "OLEO CAPILAR LOWELL 30ML - LIS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898556752473",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898556752473"
+  },
+  {
+    "ean": "7896279120715",
+    "name": "OLEO CAPILAR MURIEL ABACATE 60",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896279120715",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896279120715"
+  },
+  {
+    "ean": "7908458324385",
+    "name": "OLEO CAPILAR SALON LINE TODECA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908458324385",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908458324385"
+  },
+  {
+    "ean": "7898670901184",
+    "name": "OLEO CORPORAL  10ML - ROSA MOS",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898670901184",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898670901184"
+  },
+  {
+    "ean": "7898919411917",
+    "name": "OLEO CORPORAL AMENDOAS P11635",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898919411917",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898919411917"
+  },
+  {
+    "ean": "7898919411931",
+    "name": "OLEO CORPORAL AMENDOAS P12477",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898919411931",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898919411931"
+  },
+  {
+    "ean": "7896235354031",
+    "name": "OLEO CORPORAL AMENDOAS P24891",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354031",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354031"
+  },
+  {
+    "ean": "7896235354017",
+    "name": "OLEO CORPORAL AMENDOAS P25041",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354017",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354017"
+  },
+  {
+    "ean": "7896235354024",
+    "name": "OLEO CORPORAL AMENDOAS P25333",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354024",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354024"
+  },
+  {
+    "ean": "7896227680148",
+    "name": "OLEO CORPORAL ANTIESTRIAS BABY",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227680148",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227680148"
+  },
+  {
+    "ean": "7891150104846",
+    "name": "OLEO CORPORAL DOVE FIRMADOR 15",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150104846",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150104846"
+  },
+  {
+    "ean": "7896902211247",
+    "name": "OLEO CORPORAL FARMAX 100ML - G",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896902211247",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896902211247"
+  },
+  {
+    "ean": "7891010878016",
+    "name": "OLEO CORPORAL JOHNSONS BA5801",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010878016",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010878016"
+  },
+  {
+    "ean": "7891010877613",
+    "name": "OLEO CORPORAL JOHNSONS BA5915",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010877613",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010877613"
+  },
+  {
+    "ean": "7891010506513",
+    "name": "OLEO CORPORAL JOHNSONS BABY 20",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010506513",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010506513"
+  },
+  {
+    "ean": "7898583348748",
+    "name": "OLEO CORPORAL RUBINOVA DE ROSA",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583348748",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583348748"
+  },
+  {
+    "ean": "7891150098442",
+    "name": "OLEO DOVE BANHO DE GLICERINA 2",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150098442",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150098442"
+  },
+  {
+    "ean": "7891150104860",
+    "name": "OLEO DOVE CORPO TOM UNIFOR 150",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150104860",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150104860"
+  },
+  {
+    "ean": "7891060917062",
+    "name": "PINCA MUNDIAL DOURADA BC384",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891060917062",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891060917062"
+  },
+  {
+    "ean": "7899852024790",
+    "name": "PO COMPACTO  6GR - FPS 90 COR",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024790",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024790"
+  },
+  {
+    "ean": "7899852024783",
+    "name": "PO COMPACTO  6GR - FPS 959370",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024783",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024783"
+  },
+  {
+    "ean": "7899852024769",
+    "name": "PO COMPACTO  6GR - FPS 959371",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024769",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024769"
+  },
+  {
+    "ean": "7899852022659",
+    "name": "PO COMPACTO  9G - MATTE V430",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022659",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022659"
+  },
+  {
+    "ean": "7899852022703",
+    "name": "PO COMPACTO  9G - MATTE V460",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022703",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022703"
+  },
+  {
+    "ean": "7899852022680",
+    "name": "PO COMPACTO  9G - MATTE V470",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022680",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022680"
+  },
+  {
+    "ean": "7899852024721",
+    "name": "PO COMPACTO VULT BRONZER SOLEI",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024721",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024721"
+  },
+  {
+    "ean": "7899852024868",
+    "name": "PO COMPACTO VULT FACIAL FPS 90",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024868",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024868"
+  },
+  {
+    "ean": "7899852022635",
+    "name": "PO COMPACTO VULT TRADICIONAL01",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022635",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022635"
+  },
+  {
+    "ean": "7899852022338",
+    "name": "PO COMPACTO VULT TRADICIONAL02",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852022338",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852022338"
+  },
+  {
+    "ean": "7891010618773",
+    "name": "PROTETOR DIARIO CAREFREE 8298",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010618773",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010618773"
+  },
+  {
+    "ean": "7891010618766",
+    "name": "PROTETOR DIARIO CAREFREE 8299",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010618766",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010618766"
+  },
+  {
+    "ean": "7899852020075",
+    "name": "PROTETOR LABIAL  3,5G - FPS15",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852020075",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852020075"
+  },
+  {
+    "ean": "4005808369621",
+    "name": "PROTETOR LABIAL NIVEA 4,87472",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808369621",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808369621"
+  },
+  {
+    "ean": "4005900453259",
+    "name": "PROTETOR LABIAL NIVEA 4,8G - A",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900453259",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900453259"
+  },
+  {
+    "ean": "4005900663993",
+    "name": "PROTETOR LABIAL NIVEA 4,8G - C",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900663993",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900663993"
+  },
+  {
+    "ean": "7898628920861",
+    "name": "PROTETOR LABIAL NUTRYDER25834",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898628920861",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898628920861"
+  },
+  {
+    "ean": "7898628921622",
+    "name": "PROTETOR LABIAL NUTRYDER31301",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898628921622",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898628921622"
+  },
+  {
+    "ean": "7898628921615",
+    "name": "PROTETOR LABIAL NUTRYDER32389",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898628921615",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898628921615"
+  },
+  {
+    "ean": "7898628920755",
+    "name": "PROTETOR LABIAL NUTRYDERM FPS",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898628920755",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898628920755"
+  },
+  {
+    "ean": "7899852020068",
+    "name": "PROTETOR LABIAL VULT BALM MENT",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852020068",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852020068"
+  },
+  {
+    "ean": "7899706135795",
+    "name": "PROTETOR SOLAR  120ML - FPS50",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706135795",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706135795"
+  },
+  {
+    "ean": "7896331707588",
+    "name": "PROTETOR SOLAR HELIODERM59060",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331707588",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331707588"
+  },
+  {
+    "ean": "7896331708196",
+    "name": "PROTETOR SOLAR HELIODERM59061",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896331708196",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896331708196"
+  },
+  {
+    "ean": "7898040328825",
+    "name": "PROTETOR SOLAR IMECAP 5024347",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898040328825",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898040328825"
+  },
+  {
+    "ean": "7898040328764",
+    "name": "PROTETOR SOLAR IMECAP 5024350",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898040328764",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898040328764"
+  },
+  {
+    "ean": "7898040328788",
+    "name": "PROTETOR SOLAR IMECAP 50G - FP",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898040328788",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898040328788"
+  },
+  {
+    "ean": "7899706172226",
+    "name": "PROTETOR SOLAR LA ROCHE 10834",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706172226",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706172226"
+  },
+  {
+    "ean": "7899706184847",
+    "name": "PROTETOR SOLAR LA ROCHE 20252",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706184847",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706184847"
+  },
+  {
+    "ean": "7908615031484",
+    "name": "PROTETOR SOLAR LA ROCHE 59717",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615031484",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615031484"
+  },
+  {
+    "ean": "7908615031453",
+    "name": "PROTETOR SOLAR LA ROCHE 59718",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615031453",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615031453"
+  },
+  {
+    "ean": "4005808516667",
+    "name": "PROTETOR SOLAR NIVEA 15058564",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808516667",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808516667"
+  },
+  {
+    "ean": "4005808956401",
+    "name": "PROTETOR SOLAR NIVEA 20021125",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808956401",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808956401"
+  },
+  {
+    "ean": "4005808555345",
+    "name": "PROTETOR SOLAR NIVEA 20021478",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808555345",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808555345"
+  },
+  {
+    "ean": "4005900980397",
+    "name": "PROTETOR SOLAR NIVEA 40M58365",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900980397",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900980397"
+  },
+  {
+    "ean": "7891317024406",
+    "name": "PROTETOR SOLAR OAZ 200ML59680",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891317024406",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891317024406"
+  },
+  {
+    "ean": "7891010026264",
+    "name": "PROTETOR SOLAR SUNDOWN 125400",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010026264",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010026264"
+  },
+  {
+    "ean": "7891010020279",
+    "name": "PROTETOR SOLAR SUNDOWN 205386",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010020279",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010020279"
+  },
+  {
+    "ean": "7891010244361",
+    "name": "PROTETOR SOLAR SUNDOWN 211570",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010244361",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010244361"
+  },
+  {
+    "ean": "7896902205147",
+    "name": "PROTETOR SOLAR SUNLESS 60G - F",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896902205147",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896902205147"
+  },
+  {
+    "ean": "7896026172233",
+    "name": "PROTETOR SOLAR SUNMAX 25ML - F",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896026172233",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896026172233"
+  },
+  {
+    "ean": "7899706196987",
+    "name": "PROTETOR SOLAR VICHY 30G58355",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706196987",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706196987"
+  },
+  {
+    "ean": "7901034000376",
+    "name": "PULSAR CREM 8ML",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7901034000376",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7901034000376"
+  },
+  {
+    "ean": "7500435240529",
+    "name": "QUERATINA PANTENE PRO-V MIRACL",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435240529",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435240529"
+  },
+  {
+    "ean": "7908458316908",
+    "name": "RECARGA QUERATINA SALON LINE 8",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908458316908",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908458316908"
+  },
+  {
+    "ean": "7891010256814",
+    "name": "SAB J&J BABY LIQ CAMOMILA 400M",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010256814",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010256814"
+  },
+  {
+    "ean": "7898277711247",
+    "name": "SABONETE  100G - GLICERINA NEU",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898277711247",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898277711247"
+  },
+  {
+    "ean": "7896512911933",
+    "name": "SABONETE  250ML - BEBE PUMP LA",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512911933",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512911933"
+  },
+  {
+    "ean": "7896512904621",
+    "name": "SABONETE  250ML - BEBE PUMP TR",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512904621",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512904621"
+  },
+  {
+    "ean": "7898583341954",
+    "name": "SABONETE  500ML - PUMP CAMOMIL",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583341954",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583341954"
+  },
+  {
+    "ean": "7898583341442",
+    "name": "SABONETE  500ML - PUMP FLORAL",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583341442",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583341442"
+  },
+  {
+    "ean": "7898583341459",
+    "name": "SABONETE  500ML - PUMP LAVANDA",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583341459",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583341459"
+  },
+  {
+    "ean": "7898583341930",
+    "name": "SABONETE  500ML - PUMP MORANGO",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898583341930",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898583341930"
+  },
+  {
+    "ean": "7896512905420",
+    "name": "SABONETE  90G - BEBE TRADICION",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512905420",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512905420"
+  },
+  {
+    "ean": "7897947601437",
+    "name": "SABONETE DERMAFEME 100ML - INT",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897947601437",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897947601437"
+  },
+  {
+    "ean": "7891150065321",
+    "name": "SABONETE DOVE 75G - BABY BALAN",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150065321",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150065321"
+  },
+  {
+    "ean": "7891150026025",
+    "name": "SABONETE DOVE 75G - BABY ENRIQ",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150026025",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150026025"
+  },
+  {
+    "ean": "7891150075382",
+    "name": "SABONETE DOVE 90G - ANTIBACTER",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150075382",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150075382"
+  },
+  {
+    "ean": "7506306255678",
+    "name": "SABONETE DOVE ESFOLIANTE COCO",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506306255678",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506306255678"
+  },
+  {
+    "ean": "7506306255661",
+    "name": "SABONETE DOVE ESFOLIANTE ROMA",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7506306255661",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7506306255661"
+  },
+  {
+    "ean": "7898632472691",
+    "name": "SABONETE FACIAL LABOTRAT PRIME",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898632472691",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898632472691"
+  },
+  {
+    "ean": "7898670909791",
+    "name": "SABONETE FACIAL RUBINOVA CLARE",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898670909791",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898670909791"
+  },
+  {
+    "ean": "7896512900043",
+    "name": "SABONETE GRANADO 90G - ENXOFRE",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512900043",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512900043"
+  },
+  {
+    "ean": "7896902210332",
+    "name": "SABONETE HIDRADERM 200ML - INT",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896902210332",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896902210332"
+  },
+  {
+    "ean": "7897158716272",
+    "name": "SABONETE INTIMO GOTA DOURADA F",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897158716272",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897158716272"
+  },
+  {
+    "ean": "7891010871031",
+    "name": "SABONETE JOHNSONS BABY 112382",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010871031",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010871031"
+  },
+  {
+    "ean": "7891010871024",
+    "name": "SABONETE JOHNSONS BABY 180ML -",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010871024",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010871024"
+  },
+  {
+    "ean": "7891010042950",
+    "name": "SABONETE JOHNSONS BABY 205407",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010042950",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010042950"
+  },
+  {
+    "ean": "7891010579289",
+    "name": "SABONETE JOHNSONS BABY 206731",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010579289",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010579289"
+  },
+  {
+    "ean": "7891010035976",
+    "name": "SABONETE JOHNSONS BABY 80G - G",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010035976",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010035976"
+  },
+  {
+    "ean": "7891010781668",
+    "name": "SABONETE JOHNSONS BABY 80G - H",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010781668",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010781668"
+  },
+  {
+    "ean": "7891010032906",
+    "name": "SABONETE JOHNSONS BABY 80G - O",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010032906",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010032906"
+  },
+  {
+    "ean": "7898610078631",
+    "name": "SABONETE LIQUIDO CORPO DOURA01",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898610078631",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898610078631"
+  },
+  {
+    "ean": "7898610078617",
+    "name": "SABONETE LIQUIDO CORPO DOURADO",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898610078617",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898610078617"
+  },
+  {
+    "ean": "7891176118087",
+    "name": "SABONETE LIQUIDO FRANCIS BRANC",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891176118087",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891176118087"
+  },
+  {
+    "ean": "7908324402551",
+    "name": "SABONETE LIQUIDO FRANCIS ORQUI",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324402551",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324402551"
+  },
+  {
+    "ean": "7896235354710",
+    "name": "SABONETE LIQUIDO INTIMO MONANG",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896235354710",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896235354710"
+  },
+  {
+    "ean": "7896279129343",
+    "name": "SABONETE LIQUIDO OLEO DE BAN01",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896279129343",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896279129343"
+  },
+  {
+    "ean": "7896227690352",
+    "name": "SABONETE LIQUIDO SNOOPY 67167",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227690352",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227690352"
+  },
+  {
+    "ean": "7896227690321",
+    "name": "SABONETE LIQUIDO SNOOPY BABY T",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227690321",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227690321"
+  },
+  {
+    "ean": "4005808808281",
+    "name": "SABONETE NIVEA 200ML - OLEO DE",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808808281",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808808281"
+  },
+  {
+    "ean": "4005900219626",
+    "name": "SABONETE NIVEA 250ML - I22867",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900219626",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900219626"
+  },
+  {
+    "ean": "7896512909787",
+    "name": "SABONETE PHEBO 90G - ODOR ROSA",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512909787",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512909787"
+  },
+  {
+    "ean": "7891024037706",
+    "name": "SABONETE PROTEX 140ML - INTIMO",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024037706",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024037706"
+  },
+  {
+    "ean": "7891024024003",
+    "name": "SABONETE PROTEX 200ML - I8931",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024024003",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024024003"
+  },
+  {
+    "ean": "7891024115800",
+    "name": "SABONETE PROTEX 250ML - BALANC",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024115800",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024115800"
+  },
+  {
+    "ean": "7891024115107",
+    "name": "SABONETE PROTEX 250ML - CREAM",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024115107",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024115107"
+  },
+  {
+    "ean": "7898935462313",
+    "name": "SABONETE TOPZ 200ML - INTIMO S",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898935462313",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898935462313"
+  },
+  {
+    "ean": "7891653014062",
+    "name": "SABONETE VAGISIL 300G - INTIMO",
+    "category": "Corpo e banho",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891653014062",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891653014062"
+  },
+  {
+    "ean": "7891150095540",
+    "name": "SERUM DE TRATAMENTO DOVE BOND",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095540",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095540"
+  },
+  {
+    "ean": "7891150096547",
+    "name": "SERUM DOVE ANTIOLHEIRAS REGENE",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096547",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096547"
+  },
+  {
+    "ean": "7891150095854",
+    "name": "SERUM DOVE CORP PRO RETINO 180",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095854",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095854"
+  },
+  {
+    "ean": "7891150095878",
+    "name": "SERUM DOVE CORPO PRO CERAM 380",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150095878",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150095878"
+  },
+  {
+    "ean": "7891150096431",
+    "name": "SERUM DOVE FACIAL REGENERATIVE",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096431",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096431"
+  },
+  {
+    "ean": "7891150094345",
+    "name": "SERUM DOVE HIDRATACAO 110ML-DE",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150094345",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150094345"
+  },
+  {
+    "ean": "7891150096530",
+    "name": "SERUM DOVE REGENERATIVE PUMP 5",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150096530",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150096530"
+  },
+  {
+    "ean": "7908966529333",
+    "name": "SERUM ELSEVE COLAGENO 100ML-DE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908966529333",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908966529333"
+  },
+  {
+    "ean": "7908785461555",
+    "name": "SERUM ELSEVE LISO DOS SONHOS 1",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908785461555",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908785461555"
+  },
+  {
+    "ean": "7899852024318",
+    "name": "SERUM LABIAL VULT PREENCHEDOR",
+    "category": "Cuidados com a pele",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899852024318",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899852024318"
+  },
+  {
+    "ean": "7891150102637",
+    "name": "SH DOVE RECONST AMINOACIDO 370",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150102637",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150102637"
+  },
+  {
+    "ean": "7891150102736",
+    "name": "SH DOVE UV REPAIR FERULICO 600",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150102736",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150102736"
+  },
+  {
+    "ean": "7908966527155",
+    "name": "SH ELSEVE COLAGENO 400ML-DEMAI",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908966527155",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908966527155"
+  },
+  {
+    "ean": "7891010257125",
+    "name": "SH J J BABY 2 EM 1 180ML REFIL",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010257125",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010257125"
+  },
+  {
+    "ean": "7891010257118",
+    "name": "SH J J BABY 2 EM 1 200ML-DEMAI",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010257118",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010257118"
+  },
+  {
+    "ean": "7891010256494",
+    "name": "SH J&J BABY CHE PROL 180ML REF",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010256494",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010256494"
+  },
+  {
+    "ean": "7891010256517",
+    "name": "SH J&J BABY GOTAS BRILHO 200ML",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010256517",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010256517"
+  },
+  {
+    "ean": "7891010257101",
+    "name": "SH JJ BABY 2 EM 1 400ML-DEMAIS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010257101",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010257101"
+  },
+  {
+    "ean": "7891033534357",
+    "name": "SH SIAGE NUTRI ROSE 250ML-DEMA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033534357",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033534357"
+  },
+  {
+    "ean": "7896227690338",
+    "name": "SH SNOOPY BABY 200ML GOTAS DE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227690338",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227690338"
+  },
+  {
+    "ean": "7896227690376",
+    "name": "SH SNOOPY BABY 200ML TOQUE DE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896227690376",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896227690376"
+  },
+  {
+    "ean": "7896044956358",
+    "name": "SHAMPOO  200ML - GIBY",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896044956358",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896044956358"
+  },
+  {
+    "ean": "7896512959850",
+    "name": "SHAMPOO  250ML - BEBE CALENDUL",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512959850",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512959850"
+  },
+  {
+    "ean": "7896512914507",
+    "name": "SHAMPOO  250ML - BEBE ERVA DOC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512914507",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512914507"
+  },
+  {
+    "ean": "7896512907493",
+    "name": "SHAMPOO  250ML - BEBE TRADICIO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896512907493",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896512907493"
+  },
+  {
+    "ean": "7500435130783",
+    "name": "SHAMPOO AUSSIE 180ML - MEGA MO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435130783",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435130783"
+  },
+  {
+    "ean": "7500435130806",
+    "name": "SHAMPOO AUSSIE 180ML - MIRACUL",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435130806",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435130806"
+  },
+  {
+    "ean": "7891150075276",
+    "name": "SHAMPOO CLEAR 200ML - MEN CABE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150075276",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150075276"
+  },
+  {
+    "ean": "7891150007406",
+    "name": "SHAMPOO CLEAR 200ML - MEN ICE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150007406",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150007406"
+  },
+  {
+    "ean": "7891150019508",
+    "name": "SHAMPOO CLEAR 200ML - MEN LIMP",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150019508",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150019508"
+  },
+  {
+    "ean": "7891150044555",
+    "name": "SHAMPOO DOVE 200ML - BABY CACH",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150044555",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150044555"
+  },
+  {
+    "ean": "7891150065307",
+    "name": "SHAMPOO DOVE 200ML - BABY GLIC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150065307",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150065307"
+  },
+  {
+    "ean": "7891150025929",
+    "name": "SHAMPOO DOVE 200ML - BABY HIDR",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150025929",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150025929"
+  },
+  {
+    "ean": "7891150021686",
+    "name": "SHAMPOO DOVE 200ML - MEN LIMPE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150021686",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150021686"
+  },
+  {
+    "ean": "7899026459748",
+    "name": "SHAMPOO ELSEVE 200ML - COLOR V",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899026459748",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899026459748"
+  },
+  {
+    "ean": "7908615060385",
+    "name": "SHAMPOO ELSEVE 200ML - GLYCOLI",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615060385",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615060385"
+  },
+  {
+    "ean": "7898587774314",
+    "name": "SHAMPOO ELSEVE 200ML - OLEO EX",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898587774314",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898587774314"
+  },
+  {
+    "ean": "7899706244121",
+    "name": "SHAMPOO ELSEVE 200ML - PURE HI",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706244121",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706244121"
+  },
+  {
+    "ean": "7899026459960",
+    "name": "SHAMPOO ELSEVE 200ML - RE5025",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899026459960",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899026459960"
+  },
+  {
+    "ean": "7899706197649",
+    "name": "SHAMPOO ELSEVE 400ML - CACHOS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706197649",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706197649"
+  },
+  {
+    "ean": "7908615092997",
+    "name": "SHAMPOO ELSEVE BOND REPAIR 250",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615092997",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615092997"
+  },
+  {
+    "ean": "7908785461753",
+    "name": "SHAMPOO ELSEVE LISO DOS SONHOS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908785461753",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908785461753"
+  },
+  {
+    "ean": "7891033933990",
+    "name": "SHAMPOO EUDORA 200ML - KIDS BR",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033933990",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033933990"
+  },
+  {
+    "ean": "7891033471751",
+    "name": "SHAMPOO EUDORA SIAGE 250ML - G",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033471751",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033471751"
+  },
+  {
+    "ean": "7891033016419",
+    "name": "SHAMPOO EUDORA SIAGE 250ML - H",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033016419",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033016419"
+  },
+  {
+    "ean": "7500435176866",
+    "name": "SHAMPOO HEAD & SHOULDERS24923",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435176866",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435176866"
+  },
+  {
+    "ean": "7500435187879",
+    "name": "SHAMPOO HEAD & SHOULDERS31694",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435187879",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435187879"
+  },
+  {
+    "ean": "7500435242615",
+    "name": "SHAMPOO HEAD&SHOLDERS LIMPEZA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435242615",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435242615"
+  },
+  {
+    "ean": "7896018700307",
+    "name": "SHAMPOO HUGGIES 200ML - T7032",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896018700307",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896018700307"
+  },
+  {
+    "ean": "7891010030391",
+    "name": "SHAMPOO JOHNSONS BABY 2005102",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010030391",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010030391"
+  },
+  {
+    "ean": "7891010980061",
+    "name": "SHAMPOO JOHNSONS BABY 2005895",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010980061",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010980061"
+  },
+  {
+    "ean": "7891010521448",
+    "name": "SHAMPOO JOHNSONS BABY 4006733",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010521448",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010521448"
+  },
+  {
+    "ean": "7891010601171",
+    "name": "SHAMPOO JOHNSONS BABY 4008017",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010601171",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010601171"
+  },
+  {
+    "ean": "7899572805358",
+    "name": "SHAMPOO LOLA 230ML - MORTE SUB",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572805358",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572805358"
+  },
+  {
+    "ean": "7899572811724",
+    "name": "SHAMPOO LOLA 250ML - DANOS VOR",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572811724",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572811724"
+  },
+  {
+    "ean": "7899572802272",
+    "name": "SHAMPOO LOLA 250ML - RAPUNZEL",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572802272",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572802272"
+  },
+  {
+    "ean": "7899572806751",
+    "name": "SHAMPOO LOLA 500ML - MEU CACHO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572806751",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572806751"
+  },
+  {
+    "ean": "7899572815654",
+    "name": "SHAMPOO LOLA BASICAO 250ML",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572815654",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572815654"
+  },
+  {
+    "ean": "7899572810857",
+    "name": "SHAMPOO LOLA BEMDITA GHEE ABAC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572810857",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572810857"
+  },
+  {
+    "ean": "7899572810840",
+    "name": "SHAMPOO LOLA BEMDITA GHEE BANA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572810840",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572810840"
+  },
+  {
+    "ean": "7899572815784",
+    "name": "SHAMPOO LOLA BOSSA SHAMPOO 500",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572815784",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572815784"
+  },
+  {
+    "ean": "7899572809769",
+    "name": "SHAMPOO LOLA DETOX MORTE SUBIT",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572809769",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572809769"
+  },
+  {
+    "ean": "7899572813681",
+    "name": "SHAMPOO LOLA XAPADINHA ANTIQUE",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572813681",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572813681"
+  },
+  {
+    "ean": "7908324404272",
+    "name": "SHAMPOO OX 240ML - COLAGENO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324404272",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324404272"
+  },
+  {
+    "ean": "7908324402483",
+    "name": "SHAMPOO OX 240ML - HIALURONICO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324402483",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324402483"
+  },
+  {
+    "ean": "7908324404241",
+    "name": "SHAMPOO OX LONGOS 400ML",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324404241",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324404241"
+  },
+  {
+    "ean": "7897664168220",
+    "name": "SHAMPOO OX RESTAURA 400ML",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897664168220",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897664168220"
+  },
+  {
+    "ean": "7891033522309",
+    "name": "SHAMPOO PAMPERS 200ML - GLICER",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033522309",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033522309"
+  },
+  {
+    "ean": "7891033519347",
+    "name": "SHAMPOO PAMPERS 350ML - GLICER",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891033519347",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891033519347"
+  },
+  {
+    "ean": "7500435125475",
+    "name": "SHAMPOO PANTENE 175ML - CACHOS",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435125475",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435125475"
+  },
+  {
+    "ean": "7500435209342",
+    "name": "SHAMPOO PANTENE 175ML - EQUILI",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435209342",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435209342"
+  },
+  {
+    "ean": "7500435248136",
+    "name": "SHAMPOO PANTENE BIOTINAMINA B3",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435248136",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435248136"
+  },
+  {
+    "ean": "7500435151498",
+    "name": "SHAMPOO PANTENE COLAGENO 510ML",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435151498",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435151498"
+  },
+  {
+    "ean": "7500435232838",
+    "name": "SHAMPOO PANTENE QUERATINA E PR",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435232838",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435232838"
+  },
+  {
+    "ean": "7898623951693",
+    "name": "SHAMPOO SALON LINE 300ML12433",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898623951693",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898623951693"
+  },
+  {
+    "ean": "7898623951914",
+    "name": "SHAMPOO SALON LINE 300ML15786",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898623951914",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898623951914"
+  },
+  {
+    "ean": "7898009431177",
+    "name": "SHAMPOO SALON LINE 300ML18612",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898009431177",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898009431177"
+  },
+  {
+    "ean": "7898009430132",
+    "name": "SHAMPOO SALON LINE 300ML20037",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898009430132",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898009430132"
+  },
+  {
+    "ean": "7896115700187",
+    "name": "SHAMPOO TRALALA 480ML - SEM EM",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896115700187",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896115700187"
+  },
+  {
+    "ean": "7891150100336",
+    "name": "SHAMPOO TRESEMME BLINDAGEM ANT",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150100336",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150100336"
+  },
+  {
+    "ean": "7898614309564",
+    "name": "TERRACOTA 8ML CREM",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614309564",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614309564"
+  },
+  {
+    "ean": "7908615062495",
+    "name": "TINT COR&TON S/AMONIA 6.7 CHOC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908615062495",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908615062495"
+  },
+  {
+    "ean": "7898617522250",
+    "name": "TINT.PROB.S.B 6.1 L.ESC.A.50M",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898617522250",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898617522250"
+  },
+  {
+    "ean": "7898617527125",
+    "name": "TINT.PROB.S.B.1.77 P.AZ.I.50M",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898617527125",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898617527125"
+  },
+  {
+    "ean": "7898617523196",
+    "name": "TINT.PROB.S.B.5.26 M.ESC.50ML",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898617523196",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898617523196"
+  },
+  {
+    "ean": "7898617523097",
+    "name": "TINT.PROB.S.B.7.4 L.M.ACO.50M",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898617523097",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898617523097"
+  },
+  {
+    "ean": "7898966448409",
+    "name": "TOALHA UMED BEBE LIMP PREM 140",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898966448409",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898966448409"
+  },
+  {
+    "ean": "7898966448393",
+    "name": "TOALHA UMED BEBE LIMP PREM 90U",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898966448393",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898966448393"
+  },
+  {
+    "ean": "7898994747581",
+    "name": "TOALHA UMED BEBE LIMPINHO 45UN",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898994747581",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898994747581"
+  },
+  {
+    "ean": "7898656391046",
+    "name": "TOALHA UMEDECIDA MAMYPOK31210",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898656391046",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898656391046"
+  },
+  {
+    "ean": "7898656391053",
+    "name": "TOALHA UMEDECIDA MAMYPOKO LEVE",
+    "category": "Higiene pessoal",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898656391053",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898656391053"
+  },
+  {
+    "ean": "7891350038903",
+    "name": "TONALIZANTE BIOCOLOR - HO5158",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891350038903",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891350038903"
+  },
+  {
+    "ean": "7891350038927",
+    "name": "TONALIZANTE BIOCOLOR - HOMEM P",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891350038927",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891350038927"
+  },
+  {
+    "ean": "7897130010138",
+    "name": "TONALIZANTE CKAMURA 100G - BLU",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897130010138",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897130010138"
+  },
+  {
+    "ean": "7897130003369",
+    "name": "TONALIZANTE CKAMURA 100G 6067",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897130003369",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897130003369"
+  },
+  {
+    "ean": "7897158702138",
+    "name": "TONICO CAPILAR  100ML - ALHO",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7897158702138",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7897158702138"
+  },
+  {
+    "ean": "7899572802289",
+    "name": "TONICO CAPILAR LOLA 250ML - RA",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899572802289",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899572802289"
+  },
+  {
+    "ean": "7908324407051",
+    "name": "TONICO KOLENE CAPILAR FORTALEC",
+    "category": "Cabelos",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7908324407051",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7908324407051"
+  },
+  {
+    "ean": "7898614308192",
+    "name": "VOZES DA TERRA CINT 8ML",
+    "category": "Maquiagem e unhas",
+    "brand": "",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898614308192",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898614308192"
+  }
+]

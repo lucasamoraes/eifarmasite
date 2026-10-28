@@ -1,0 +1,23 @@
+[
+  {
+    "ean": "7896523201887",
+    "name": "Dipirona monoidratada 1 g — 10 comprimidos",
+    "category": "Medicamentos sem receita",
+    "brand": "Cimed",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7896523201887",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7896523201887",
+    "medicine": {
+      "ingredient": "Dipirona monoidratada",
+      "registration": "1438102930031",
+      "manufacturer": "CIMED INDUSTRIA S.A",
+      "indication": "Alívio da dor e da febre.",
+      "usage": "Uso oral. Para adultos e adolescentes acima de 15 anos.",
+      "warning": "NÃO USE ESTE MEDICAMENTO DURANTE A GRAVIDEZ E EM CRIANÇAS MENORES DE TRÊS MESES DE IDADE.",
+      "symptoms_warning": "SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO.",
+      "leaflet": "https://bula.cimedremedios.com.br/008/006/001/001/104064/104064-B.pdf",
+      "source": "https://cimedremedios.com.br/remedio/dipirona/",
+      "checked_on": "2026-10-28",
+      "registration_status": "Ativo"
+    }
+  }
+]

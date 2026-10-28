@@ -1,0 +1,16 @@
+/config.local.php
+/storage/*
+!/storage/.htaccess
+*.xlsx
+*.log
+/dist/
+/.env
+/.env.*
+*.zip
+/data/catalog-audit.json
+/scripts/finish_catalog.py
+/scripts/update-navigation.py
+/scripts/fix-mip-template.py
+/scripts/setup-local.php
+/scripts/import-catalog-local.php
+/scripts/import-pending-mips.php

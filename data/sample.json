@@ -1,0 +1,134 @@
+[
+  {
+    "ean": "7898422746759",
+    "name": "Sabonete Dove Original 90 g",
+    "category": "Corpo e banho",
+    "brand": "Dove",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7898422746759",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7898422746759",
+    "original_name": "SABONETE DOVE 90G - ORIGINAL",
+    "group": "SABONETES EM BARRAS",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7899706187343",
+    "name": "Shampoo Elseve Hidra Hialurônico 200 ml",
+    "category": "Cabelos",
+    "brand": "L’Oréal Paris",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706187343",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706187343",
+    "original_name": "SHAMPOO ELSEVE 200ML - HIDRA H",
+    "group": "SHAMPOOS COMUNS - NA",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7899706170833",
+    "name": "Shampoo Elseve Longo dos Sonhos 200 ml",
+    "category": "Cabelos",
+    "brand": "L’Oréal Paris",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7899706170833",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7899706170833",
+    "original_name": "SHAMPOO ELSEVE 200ML - LONGO D",
+    "group": "SHAMPOOS COMUNS - NA",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7500435125420",
+    "name": "Shampoo Pantene Liso Extremo 175 ml",
+    "category": "Cabelos",
+    "brand": "Pantene",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7500435125420",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7500435125420",
+    "original_name": "SHAMPOO PANTENE 175ML - LISO E",
+    "group": "SHAMPOOS COMUNS - NA",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7891024111444",
+    "name": "Creme dental Colgate Total 12 90 g",
+    "category": "Higiene bucal",
+    "brand": "Colgate",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891024111444",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891024111444",
+    "original_name": "CREME DENTAL COLGATE 90G - T12",
+    "group": "CREMES DENTAIS",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7891010501105",
+    "name": "Fio dental Johnson’s 100 m",
+    "category": "Higiene bucal",
+    "brand": "Johnson’s",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010501105",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010501105",
+    "original_name": "FIO DENTAL JOHNSONS 100M - ESS",
+    "group": "FIOS E FITAS DENTAIS",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "4005808335435",
+    "name": "Hidratante corporal Nivea 200 ml",
+    "category": "Cuidados com a pele",
+    "brand": "Nivea",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005808335435",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005808335435",
+    "original_name": "HIDRATANTE CORPORAL NIVEA 200M",
+    "group": "CORPO E BANHO.",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "4005900950987",
+    "name": "Creme facial Nivea 100 g",
+    "category": "Cuidados com a pele",
+    "brand": "Nivea",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900950987",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900950987",
+    "original_name": "CREME FACIAL NIVEA 100G - BELE",
+    "group": "HIDRATANTES",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7891150073098",
+    "name": "Desodorante Dove aerosol 150 ml",
+    "category": "Higiene pessoal",
+    "brand": "Dove",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891150073098",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891150073098",
+    "original_name": "DES AERO DOVE 150ML - WOMEN CL",
+    "group": "DESODORANTES AEROSSO",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "4005900707536",
+    "name": "Desodorante Nivea Men Deep 150 ml",
+    "category": "Higiene pessoal",
+    "brand": "Nivea",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/4005900707536",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/4005900707536",
+    "original_name": "DES AERO NIVEA 150ML - MEN DEE",
+    "group": "DESODORANTES AEROSOL",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7891010793463",
+    "name": "Absorvente Sempre Livre suave 16 unidades",
+    "category": "Higiene pessoal",
+    "brand": "Sempre Livre",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010793463",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010793463",
+    "original_name": "ABS SEMPRE LIVRE 16UN - SUAVE",
+    "group": "ABSORVENTE EXTERNO",
+    "classification": "PERFUMARIA"
+  },
+  {
+    "ean": "7891010032937",
+    "name": "Hastes flexíveis Cotonetes 150 unidades",
+    "category": "Higiene pessoal",
+    "brand": "Cotonetes",
+    "image": "https://cdn-cosmos.bluesoft.com.br/products/7891010032937",
+    "image_source": "https://cosmos.bluesoft.com.br/produtos/7891010032937",
+    "original_name": "HASTES FLEXIVEIS COTONETES 150",
+    "group": "HIGIENE PESSOAL.",
+    "classification": "PERFUMARIA"
+  }
+]
