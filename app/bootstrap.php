@@ -53,6 +53,9 @@ function catalog(bool $medicinePreview=false): array {
     return visible_products($db->query('SELECT ean,name,category,brand,image,image_source FROM products WHERE active=1 ORDER BY sort_order,id')->fetchAll());
 }
 function banners(): array {
+    require_once ROOT.'/app/banner-upload.php';
+    $custom=array_values(array_filter(custom_banners(),fn($b)=>!empty($b['active'])));
+    if($custom)return array_map(fn($b)=>['title'=>$b['title'],'image'=>'banner.php?id='.$b['id'],'mobile'=>$b['mobile']?'banner.php?id='.$b['id'].'&size=mobile':'','link'=>$b['link']],$custom);
     $defaults = [
         ['title'=>'Seu cuidado começa com um oi.', 'subtitle'=>'Escolha seus produtos favoritos. A EI! FARMA recebe seu pedido pelo WhatsApp.', 'eyebrow'=>'PERTINHO DE VOCÊ, TODOS OS DIAS', 'category'=>'', 'theme'=>'blue', 'cta'=>'Explorar produtos'],
         ['title'=>'Um momento só seu.', 'subtitle'=>'Encontre os essenciais de corpo e banho para a sua rotina de cuidado.', 'eyebrow'=>'CUIDADOS QUE FAZEM PARTE DA ROTINA', 'category'=>'Corpo e banho', 'theme'=>'rose', 'cta'=>'Ver corpo e banho'],
@@ -75,6 +78,7 @@ function verify_csrf(): void {
     if (!hash_equals($_SESSION['csrf'] ?? '', (string)($_POST['csrf'] ?? ''))) { http_response_code(403); exit('Sessão expirada. Recarregue a página.'); }
 }
 function icon(string $name): string {
+    if($name==='chat')return '<img class="whatsapp-icon" src="images/whats.jfif" alt="" aria-hidden="true">';
     $paths = [
         'bag'=>'<path d="M2 3h3l3 13h11l3-9H6"/><circle cx="9" cy="21" r="1"/><circle cx="18" cy="21" r="1"/>',
         'search'=>'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/>',

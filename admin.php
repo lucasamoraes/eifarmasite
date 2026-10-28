@@ -25,6 +25,15 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
             session_regenerate_id(true);$_SESSION['user']=(int)$user['id'];$_SESSION['last_seen']=time();$_SESSION['csrf']=bin2hex(random_bytes(32));header('Location: admin.php');exit;
         }
         if(empty($_SESSION['user']))throw new RuntimeException('Entre na sua conta para continuar.');
+        if($action==='upload_banner'){
+            require_once ROOT.'/app/banner-upload.php';upload_custom_banner($_POST,$_FILES);
+            $_SESSION['notice']='Banner publicado no carrossel.';header('Location: admin.php#custom-banners');exit;
+        }
+        if($action==='toggle_banner'){
+            require_once ROOT.'/app/banner-upload.php';$id=(string)($_POST['banner_id']??'');$active=($_POST['active']??'')==='1';
+            update_custom_banners(function($rows)use($id,$active){foreach($rows as &$row)if($row['id']===$id)$row['active']=$active;return $rows;});
+            header('Location: admin.php#custom-banners');exit;
+        }
         if($action==='medicine_visibility'){
             $value=(string)($_POST['visible']??'');
             if(!in_array($value,['0','1'],true))throw new RuntimeException('Situação inválida.');
