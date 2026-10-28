@@ -25,3 +25,7 @@ As atualizações do código não são backup do banco. Fazer backup do banco an
 ## Pendências de conexão
 
 Código e configuração de deploy enviados ao GitHub. O deploy na hospedagem ainda precisa ser executado pelo cPanel; também faltam configurar o banco de produção e a conta do gerente. Os dados de acesso locais não foram enviados ao GitHub.
+
+## Primeiro gerente sem Terminal
+
+Após importar database.sql no phpMyAdmin, adicione setup_key com uma chave privada aleatória de 32 ou mais caracteres ao array de config.local.php. Acesse https://eifarma.amplificati.com.br/instalar.php e informe a chave, seu e-mail e a senha escolhida duas vezes. O instalador exige HTTPS, verifica CSRF e serializa a criação para permitir somente o primeiro gerente. Se já existir qualquer usuário, não altera a conta nem sua senha. Remova setup_key da configuração após concluir. A chave nunca deve ir para o Git. Esta tela cria apenas o acesso; não importa produtos.

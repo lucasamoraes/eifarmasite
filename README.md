@@ -16,7 +16,7 @@ No XAMPP, acesse `http://localhost/eifarma/`. Alternativa: `C:\xampp\php\php.exe
 2. Crie o banco e seu usuário no cPanel (MySQL Databases), concedendo permissões apenas nesse banco.
 3. Copie `config.example.php` para `config.local.php` e preencha host, nome, usuário e senha. O phpMyAdmin administra o banco; não é o banco em si.
 4. Pelo terminal privado do cPanel, execute `php scripts/setup.php`, fornecendo pela entrada padrão um JSON com `email` e `password` (12+ caracteres). O script cria tabelas, conta do gerente e catálogo. Não coloque a senha na linha de comando. O mesmo `database.sql` pode ser importado pelo phpMyAdmin; a conta ainda precisa de hash gerado por `password_hash`.
-5. Entre em `/admin.php`. Troque a conta criada se necessário diretamente com `password_hash`; não existe instalador público.
+5. Entre em `/admin.php`. Troque a conta criada se necessário diretamente com `password_hash`; existe instalar.php para criar somente o primeiro gerente, protegido por setup_key privada e bloqueado quando já existe usuário. Consulte DEPLOY.md.
 6. Confira se `.htaccess` está ativo: `/data/sample.json`, `/config.local.php` e a planilha XLSX devem retornar HTTP 403. Não envie a planilha original, scripts de preparação, testes, logs ou README ao servidor público se não forem necessários. Configure `display_errors=Off` em produção.
 
 Extensões: PDO MySQL, mbstring, ZIP, SimpleXML e cURL. `upload_max_filesize` deve ser pelo menos 10M e `post_max_size` maior que 10M. A aplicação limita XLSX descompactado a 60 MB e 15.000 linhas. Faça backup do banco antes de publicar alterações de infraestrutura.
