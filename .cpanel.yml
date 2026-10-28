@@ -1,0 +1,13 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/luca6802/eifarma.amplificati.com.br
+    - /bin/test -d "$DEPLOYPATH"
+    - /bin/mkdir -p "$DEPLOYPATH/app" "$DEPLOYPATH/assets" "$DEPLOYPATH/data" "$DEPLOYPATH/images" "$DEPLOYPATH/storage" "$DEPLOYPATH/scripts"
+    - /bin/cp index.php admin.php mips-preview.php .htaccess config.example.php database.sql "$DEPLOYPATH/"
+    - /bin/cp -R app/. "$DEPLOYPATH/app/"
+    - /bin/cp -R assets/. "$DEPLOYPATH/assets/"
+    - /bin/cp data/.htaccess data/catalog.json data/sample.json data/mips-ready.json data/mips-pending.json "$DEPLOYPATH/data/"
+    - /bin/cp -R images/. "$DEPLOYPATH/images/"
+    - /bin/cp storage/.htaccess "$DEPLOYPATH/storage/"
+    - /bin/cp scripts/setup.php "$DEPLOYPATH/scripts/"
