@@ -41,6 +41,20 @@ if($_SERVER['REQUEST_METHOD']==='POST'){
             $_SESSION['notice']=$value==='1'?'Medicamento aprovado manualmente e publicado na vitrine.':'Medicamento retirado da vitrine. O cadastro foi preservado.';
             header('Location: admin.php#medicamentos');exit;
         }
+        if($action==='medicine_bulk_visibility'){
+            $page=max(1,(int)($_GET['med_page']??1));
+            if(!empty($_POST['remove_ean'])){
+                set_medicine_visibility($pdo,(string)$_POST['remove_ean'],false);
+                $_SESSION['notice']='Medicamento retirado da vitrine. O cadastro foi preservado.';
+            }else{
+                $eans=array_values(array_unique(array_filter((array)($_POST['eans']??[]),fn($ean)=>is_string($ean)&&preg_match('/^\d{8,14}$/D',$ean))));
+                if(!$eans)throw new RuntimeException('Selecione pelo menos um medicamento para aprovar.');
+                if(count($eans)>10)throw new RuntimeException('Aprove no máximo os 10 medicamentos exibidos por página.');
+                foreach($eans as $ean)set_medicine_visibility($pdo,$ean,true);
+                $_SESSION['notice']=count($eans).' medicamento(s) aprovado(s) e publicado(s) na vitrine.';
+            }
+            header('Location: admin.php?med_page='.$page.'#medicamentos');exit;
+        }
         if($action==='preview'){
             $file=$_FILES['sheet']??[];
             if(($file['error']??UPLOAD_ERR_NO_FILE)!==UPLOAD_ERR_OK)throw new RuntimeException('Não foi possível receber o arquivo. Confira o limite de upload da hospedagem.');
