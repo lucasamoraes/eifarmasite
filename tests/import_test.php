@@ -5,7 +5,9 @@ function expect(bool $ok,string $name):void{if(!$ok)throw new RuntimeException('
 $rows=read_sheet(ROOT.'/PRODUTOS EIFARMA.xlsx','xlsx');
 $report=analyze_import($rows);
 expect($report['total']===3197,'read source workbook and sparse columns');
-expect(count($report['products'])===504,'only 504 selected EANs accepted');
+expect(count($report['products'])===782,'503 care products and 279 identified MIPs accepted');
+expect(count(array_filter($report['products'],fn($p)=>$p['category']==='Medicamentos sem receita'))===279,'all identified MIPs included in import');
+expect(count(array_filter($report['products'],fn($p)=>$p['category']==='Medicamentos sem receita'&&!$p['import_active']))===278,'pending MIPs enter as unpublished');
 expect(!str_contains(json_encode($report['products']),'Valor de Compra'),'no purchase costs in catalog');
 $seed=sample()[0];
 $r=analyze_import([['Descricao','EAN'],['Original',$seed['ean']],['Duplicate',$seed['ean']],['Invalid','1234567890123'],['Medicamento','7896004817477']]);

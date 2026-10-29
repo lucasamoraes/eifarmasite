@@ -52,13 +52,22 @@ function analyze_import(array $rows): array {
     $eanIndex=array_search('ean',$headers,true);$nameIndex=array_search('descricao',$headers,true);
     if($nameIndex===false)$nameIndex=array_search('descrição',$headers,true);
     if($eanIndex===false||$nameIndex===false)throw new RuntimeException('As colunas EAN e Descricao são obrigatórias.');
-    $allowed=array_column(approved_products(),null,'ean');$seen=[];$accepted=[];$excluded=[];$duplicates=0;$total=0;
+    $allowed=[];
+    foreach(approved_products() as $product){$product['import_active']=true;$allowed[$product['ean']]=$product;}
+    foreach(pending_mips() as $medicine){
+        $allowed[$medicine['ean']]=[
+            'ean'=>$medicine['ean'],'name'=>$medicine['name'],'category'=>'Medicamentos sem receita',
+            'brand'=>$medicine['brand'],'image'=>$medicine['image'],'image_source'=>$medicine['image_source'],
+            'import_active'=>false,
+        ];
+    }
+    $seen=[];$accepted=[];$excluded=[];$duplicates=0;$total=0;
     foreach($rows as $index=>$row){
         $ean=trim((string)($row[$eanIndex]??''));$name=trim((string)($row[$nameIndex]??''));
         if($ean===''&&$name==='')continue;$total++;
         if(!valid_ean($ean)){$excluded[]=['row'=>$index+2,'name'=>mb_substr($name,0,150),'reason'=>'EAN inválido ou código interno'];continue;}
         if(isset($seen[$ean])){$duplicates++;continue;}$seen[$ean]=true;
-        if(!isset($allowed[$ean])){$excluded[]=['row'=>$index+2,'name'=>mb_substr($name,0,150),'reason'=>'Fora da seleção de higiene, beleza e fraldas: não publicado'];continue;}
+        if(!isset($allowed[$ean])){$excluded[]=['row'=>$index+2,'name'=>mb_substr($name,0,150),'reason'=>'Produto não identificado na seleção segura de cuidados e MIPs: não importado'];continue;}
         $accepted[]=$allowed[$ean];
     }
     if(!$total)throw new RuntimeException('A planilha não possui produtos.');
@@ -71,14 +80,23 @@ function apply_import(PDO $pdo,array $preview,string $mode,int $userId): array {
     try {
         // Serializes competing imports, including the replacement operation.
         $pdo->query('SELECT id FROM users ORDER BY id FOR UPDATE')->fetchAll();
-        if($mode==='replace')$pdo->exec('UPDATE products SET active=0');
+        $previousActive=[];
+        if($mode==='replace'){
+            foreach($pdo->query('SELECT ean,active FROM products')->fetchAll() as $existing)$previousActive[$existing['ean']]=(bool)$existing['active'];
+            $pdo->exec('UPDATE products SET active=0');
+        }
         $find=$pdo->prepare('SELECT id FROM products WHERE ean=?');
-        $insert=$pdo->prepare('INSERT INTO products(ean,name,category,brand,image,image_source,active) VALUES(?,?,?,?,?,?,1)');
-        $activate=$pdo->prepare('UPDATE products SET active=1 WHERE ean=?');
+        $insert=$pdo->prepare('INSERT INTO products(ean,name,category,brand,image,image_source,active) VALUES(?,?,?,?,?,?,?)');
+        $setActive=$pdo->prepare('UPDATE products SET active=? WHERE ean=?');
         foreach($preview['products'] as $p){
+            $active=!array_key_exists('import_active',$p)||!empty($p['import_active']);
             $find->execute([$p['ean']]);
-            if($find->fetch()){$duplicates++;if($mode==='replace')$activate->execute([$p['ean']]);continue;}
-            $insert->execute([$p['ean'],$p['name'],$p['category'],$p['brand'],$p['image'],$p['image_source']]);$inserted++;
+            if($find->fetch()){
+                $duplicates++;
+                if($mode==='replace')$setActive->execute([($active||!empty($previousActive[$p['ean']]))?1:0,$p['ean']]);
+                continue;
+            }
+            $insert->execute([$p['ean'],$p['name'],$p['category'],$p['brand'],$p['image'],$p['image_source'],$active?1:0]);$inserted++;
         }
         $pdo->prepare('INSERT INTO imports(user_id,mode,total_rows,accepted,duplicates,excluded) VALUES(?,?,?,?,?,?)')->execute([$userId,$mode,$preview['total'],count($preview['products']),$duplicates,count($preview['excluded'])]);
         $pdo->commit();return ['inserted'=>$inserted,'duplicates'=>$duplicates];
