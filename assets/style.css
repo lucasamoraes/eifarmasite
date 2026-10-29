@@ -11,6 +11,22 @@
 .navigation,.filter-chips,.category-grid{scrollbar-width:none}.navigation::-webkit-scrollbar,.filter-chips::-webkit-scrollbar,.category-grid::-webkit-scrollbar{display:none}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
 
+.whatsapp-icon{display:inline-block!important;width:24px!important;height:24px!important;max-width:24px!important;max-height:24px!important;object-fit:cover;border-radius:50%;flex:0 0 24px;vertical-align:middle}
+.contact .whatsapp-icon{width:30px!important;height:30px!important;max-width:30px!important;max-height:30px!important;flex-basis:30px}
+.banner-symbol .whatsapp-icon{width:34px!important;height:34px!important;max-width:34px!important;max-height:34px!important}
+.button .whatsapp-icon{width:20px!important;height:20px!important;max-width:20px!important;max-height:20px!important;flex-basis:20px}
+.uploaded-banners{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin-top:24px}.uploaded-banners article{border:1px solid var(--line);border-radius:10px;padding:12px;background:#fff}.uploaded-banners img{display:block;width:100%;aspect-ratio:16/5;object-fit:cover;border-radius:7px;margin-bottom:10px}.uploaded-banners strong{display:block}.uploaded-banners p{font-size:12px;margin:4px 0 10px}
+
+.hero.custom-banner{display:block;width:100%;min-height:0;padding:0;aspect-ratio:16/5;background:#eef3f6}
+#campaigns{display:none}
+.hero-custom-link{position:absolute;inset:0;display:block;z-index:1}
+.hero-custom-link[hidden]{display:none}
+.hero-custom-picture,.hero-custom-picture img{display:block;width:100%;height:100%}
+.hero-custom-picture img{object-fit:cover;object-position:center}
+.custom-banner .slider-controls{z-index:3;left:24px;right:24px;bottom:16px;pointer-events:none}
+.custom-banner .slider-controls button{pointer-events:auto;background:#073b5bcc;border-color:#ffffffaa;box-shadow:0 2px 8px #0004}
+@media(max-width:700px){.hero.custom-banner{aspect-ratio:4/5;border-radius:10px}.custom-banner .slider-controls{left:12px;right:12px;bottom:10px}}
+
 /* Delivery and product-search assistance */
 .delivery-top strong{margin-right:5px;letter-spacing:.5px}.topbar .delivery-top{font-size:12px}.search-help{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px 22px;margin:0 0 24px;border:1px solid #b9d5e5;border-left:4px solid var(--blue);border-radius:9px;background:#edf6fb}.search-help>div{display:flex;align-items:center;gap:13px}.search-help svg{color:var(--blue)}.search-help strong{display:block;color:var(--navy);font-size:14px}.search-help small{display:block;color:#4c6879;font-size:12px;margin-top:3px}.search-help .button{white-space:nowrap}.search-help .button svg{color:white}.delivery-footer{background:var(--blue);color:white;padding:23px 0}.delivery-footer .container{display:flex;align-items:center;justify-content:space-between;gap:18px}.delivery-footer strong{font-family:Manrope,sans-serif;font-size:20px}.delivery-footer span{font-size:12px;color:#d5eaf5}#empty-state{background:#f3f8fb;border:1px solid var(--line);border-radius:12px}#empty-state .text-button{margin-top:12px}
 @media(max-width:700px){.topbar .delivery-top{font-size:11px}.search-help{align-items:stretch;flex-direction:column;padding:16px;gap:14px}.search-help strong{font-size:13px}.search-help small{font-size:11px}.search-help .button{font-size:12px}.delivery-footer .container{flex-direction:column;align-items:flex-start;gap:7px}.delivery-footer strong{font-size:18px}.delivery-footer span{font-size:11px}#empty-state{padding:28px 18px}}
