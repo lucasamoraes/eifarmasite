@@ -43,3 +43,30 @@
 .search .search-submit{display:flex;align-items:center;justify-content:center;gap:8px;background:#005383;color:#fff;border:0;border-radius:8px;padding:12px 18px;width:auto;min-height:44px;font-weight:700;cursor:pointer;flex-shrink:0}.search .search-submit:hover{background:#003b60}.search .search-submit:focus-visible{outline:3px solid #ed164f;outline-offset:3px}.search .search-submit svg{color:#fff;width:20px;height:20px}.search{overflow:visible}.catalog-search{border:2px solid #b4d4e5;background:#edf6fb}.catalog-search>div{gap:10px}.catalog-search input{background:#fff;border:1px solid #adc6d4;border-radius:8px;padding:12px}.catalog-search label{font-size:16px;color:#005383}@media(max-width:700px){.search .search-submit{padding:10px 12px;font-size:12px}.search input{min-width:0}.catalog-search>div{gap:6px}}
 
 .preview-notice{padding:16px;background:#fff4cf;color:#483a12;text-align:center;font-size:14px}.preview-notice a{text-decoration:underline;font-weight:700}.medicine-card{grid-column:span 2}.medicine-details{font-size:13px;line-height:1.6}.medicine-details p{margin:8px 0;color:#243e4d}.medicine-details .medicine-ingredient{font-size:16px;font-weight:700}.medicine-details a{text-decoration:underline;color:#005383}.medicine-warnings{background:white;border:2px solid black;color:black;padding:16px;margin:16px 0;min-height:180px;display:flex;flex-direction:column;justify-content:center;font-family:Arial,sans-serif;font-weight:700;font-size:16px;line-height:1.5}.medicine-warnings p{color:black;margin:0 0 12px}.medicine-warnings p:last-child{margin-bottom:0}@media(max-width:700px){.medicine-card{grid-column:1/-1}.medicine-warnings{font-size:15px}}
+
+/* Experiência mobile semelhante a aplicativo: sem zoom involuntário e com alvos de toque confortáveis. */
+@media(max-width:700px){
+ html,body{max-width:100%;overflow-x:hidden;overflow-x:clip;-webkit-text-size-adjust:100%;overscroll-behavior-x:none}
+ body{touch-action:manipulation}
+ input,textarea,select{font-size:16px!important}
+ .container{max-width:100%}
+ .header-main,.search,.search input,.product-card,.cart-row>div{min-width:0}
+ .search{height:50px;min-height:50px;border-radius:10px}
+ .search input{padding:0 14px;line-height:1.2}
+ .search .search-submit{min-width:52px;min-height:50px;padding:0 14px}
+ .search .search-submit span{display:none}
+ .cart-trigger{min-height:44px;padding:8px 4px 8px 10px}
+ .navigation button,.navigation a,.filter-chips button{min-height:44px;display:inline-flex;align-items:center}
+ .category-card{min-height:112px}
+ .product-card{padding:12px}
+ .product-card .button{min-height:50px;padding:11px 8px;font-size:13px;line-height:1.25;border-radius:9px;gap:7px;background:var(--blue);color:#fff}
+ .product-card .button svg{width:18px;height:18px}
+ .personal-banner .button,.search-help .button,.bottom-cart .button,.cart-footer .button{min-height:50px;font-size:14px;padding:12px 16px}
+ .bottom-cart{padding-top:10px}
+ .bottom-cart-inner{min-height:52px}
+ .quantity button{width:40px;height:40px;font-size:18px}
+ .remove-item,.text-button{min-height:44px;padding:10px}
+ .icon-button{width:44px;height:44px;padding:10px}
+ .cart-footer textarea{font-size:16px;min-height:76px}
+ dialog.cart-dialog{width:100%;border-radius:0}
+}
