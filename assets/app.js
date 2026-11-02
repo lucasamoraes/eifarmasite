@@ -5,6 +5,7 @@ const icons={bag:'<path d="M2 3h3l3 13h11l3-9H6"/><circle cx="9" cy="21" r="1"/>
 const icon=name=>`<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${icons[name]||icons.bag}</svg>`;
 const escapeHtml=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const normalize=value=>String(value).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const categoryLabel=value=>value==='Medicamentos sem receita'?'Medicamentos':value;
 const safeUrl=value=>{try{const url=new URL(value);return url.protocol==='https:'?url.href:'';}catch{return '';}};
 let category='',query='',sort='featured',cart={},visibleCount=24;
 try{const stored=JSON.parse(localStorage.getItem('eifarma-cart')||'{}');for(const p of data.products){const n=Number(stored[p.ean]);if(Number.isInteger(n)&&n>0)cart[p.ean]=Math.min(n,99);}}catch{}
@@ -20,23 +21,21 @@ function renderProducts(more=false){
  if(!more)visibleCount=24;
  let list=data.products.filter(p=>(!category||p.category===category)&&normalize(`${p.name} ${p.brand} ${p.ean}`).includes(normalize(query)));
  if(sort!=='featured')list.sort((a,b)=>a.name.localeCompare(b.name,'pt-BR')*(sort==='az'?1:-1));
- $('#catalog-title').textContent=query?`Resultados para “${query}”`:category||'Uma seleção para se cuidar';
+ $('#catalog-title').textContent=query?`Resultados para “${query}”`:categoryLabel(category)||'Uma seleção para se cuidar';
  $('#result-count').textContent=`${list.length} ${list.length===1?'produto':'produtos'}`;
  $('#empty-state').hidden=list.length>0;
  $('#load-more').hidden=list.length<=visibleCount;
- $('#product-grid').innerHTML=list.slice(0,visibleCount).map(p=>`<article class="product-card ${p.medicine?'medicine-card':''}"><div class="product-image">${safeUrl(p.image)?`<img src="${escapeHtml(safeUrl(p.image))}" alt="${escapeHtml(p.name)}" loading="lazy" referrerpolicy="no-referrer">${safeUrl(p.image_source)?`<a class="source" href="${escapeHtml(safeUrl(p.image_source))}" target="_blank" rel="noopener">Crédito da foto</a>`:''}`:placeholder()}</div><span class="product-brand">${escapeHtml(p.brand)}</span><h3>${escapeHtml(p.name)}</h3><span class="product-category">${escapeHtml(p.category)}</span>${medicineDetails(p)}<button class="button" data-add="${escapeHtml(p.ean)}" aria-label="Adicionar ${escapeHtml(p.name)} ao carrinho">${icon('plus')} Adicionar ao carrinho</button></article>`).join('');
+ $('#product-grid').innerHTML=list.slice(0,visibleCount).map(p=>`<article class="product-card ${p.medicine?'medicine-card':''}"><div class="product-image">${safeUrl(p.image)?`<img src="${escapeHtml(safeUrl(p.image))}" alt="${escapeHtml(p.name)}" loading="lazy" referrerpolicy="no-referrer">${safeUrl(p.image_source)?`<a class="source" href="${escapeHtml(safeUrl(p.image_source))}" target="_blank" rel="noopener">Crédito da foto</a>`:''}`:placeholder()}</div><span class="product-brand">${escapeHtml(p.brand)}</span><h3>${escapeHtml(p.name)}</h3><span class="product-category">${escapeHtml(categoryLabel(p.category))}</span>${medicineDetails(p)}<button class="button" data-add="${escapeHtml(p.ean)}" aria-label="Adicionar ${escapeHtml(p.name)} ao carrinho">${icon('plus')} Adicionar ao carrinho</button></article>`).join('');
  $('#product-grid').querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{img.parentNode.innerHTML=placeholder();},{once:true}));
  document.querySelectorAll('#filters [data-category]').forEach(b=>{b.classList.toggle('active',b.dataset.category===category);b.setAttribute('aria-pressed',String(b.dataset.category===category));});
 }
 $('#load-more').addEventListener('click',()=>{visibleCount+=24;renderProducts(true);});
-function setCategory(value,scroll=true){category=value;query='';$('#search').value='';$('#catalog-search').value='';renderProducts();if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
+function setCategory(value,scroll=true){category=value;query='';$('#search').value='';renderProducts();if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
 document.querySelectorAll('[data-category]').forEach(button=>button.addEventListener('click',()=>setCategory(button.dataset.category)));
-function searchProducts(value,scroll=false){query=value.trim();category='';$('#search').value=value;$('#catalog-search').value=value;renderProducts();if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
-for(const [form,input] of [['#search-form','#search'],['#catalog-search-form','#catalog-search']]){
- $(form).addEventListener('submit',event=>{event.preventDefault();searchProducts($(input).value,true);});
- $(input).addEventListener('input',()=>searchProducts($(input).value));
-}
-const macroCategories={'Beleza e cuidados':['Cabelos','Cuidados com a pele','Maquiagem e unhas'],'Higiene':['Corpo e banho','Higiene pessoal','Higiene bucal'],'Fraldas e cuidados':['Fraldas'],'Medicamentos':['Medicamentos sem receita']};
+function searchProducts(value,scroll=false){query=value.trim();category='';$('#search').value=value;renderProducts();if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
+$('#search-form').addEventListener('submit',event=>{event.preventDefault();searchProducts($('#search').value,true);});
+$('#search').addEventListener('input',()=>searchProducts($('#search').value));
+const macroCategories={'Beleza e cuidados':['Cabelos','Cuidados com a pele','Maquiagem e unhas'],'Higiene':['Corpo e banho','Higiene pessoal','Higiene bucal'],'Fraldas e cuidados':['Fraldas']};
 document.querySelectorAll('[data-macro]').forEach(button=>button.addEventListener('click',()=>{
  if(button.dataset.macro==='Medicamentos'){
   document.querySelectorAll('[data-macro]').forEach(b=>b.setAttribute('aria-expanded','false'));
