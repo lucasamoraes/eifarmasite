@@ -38,6 +38,10 @@ for(const [form,input] of [['#search-form','#search'],['#catalog-search-form','#
 }
 const macroCategories={'Beleza e cuidados':['Cabelos','Cuidados com a pele','Maquiagem e unhas'],'Higiene':['Corpo e banho','Higiene pessoal','Higiene bucal'],'Fraldas e cuidados':['Fraldas'],'Medicamentos':['Medicamentos sem receita']};
 document.querySelectorAll('[data-macro]').forEach(button=>button.addEventListener('click',()=>{
+ if(button.dataset.macro==='Medicamentos'){
+  document.querySelectorAll('[data-macro]').forEach(b=>b.setAttribute('aria-expanded','false'));
+  $('#subcategory-menu').hidden=true;setCategory('Medicamentos sem receita');return;
+ }
  const opened=button.getAttribute('aria-expanded')==='true';
  document.querySelectorAll('[data-macro]').forEach(b=>b.setAttribute('aria-expanded','false'));
  $('#subcategory-menu').hidden=opened;
@@ -74,23 +78,27 @@ $('#checkout').addEventListener('click',()=>{
  window.open(`https://wa.me/${data.whatsapp}?text=${encodeURIComponent(message)}`,'_blank','noopener,noreferrer');
 });
 let slide=0,paused=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const mobileBannerMedia=window.matchMedia('(max-width: 700px)');
+const availableSlides=()=>{const filtered=mobileBannerMedia.matches?data.slides.filter(s=>!s.image||s.mobile):data.slides;return filtered.length?filtered:data.slides;};
 function renderSlide(){
- const s=data.slides[slide],custom=Boolean(s.image),link=safeUrl(s.link||'');
+ const slides=availableSlides();if(slide>=slides.length)slide=0;
+ const s=slides[slide],custom=Boolean(s.image),link=safeUrl(s.link||'');
  $('#hero').className=`hero ${custom?'custom-banner':(s.theme==='rose'?'rose':'')}`;
  $('#hero-content').hidden=custom;$('#hero-art').hidden=custom;$('#hero-custom-link').hidden=!custom;
  if(custom){
-  $('#hero-custom-image').src=s.image;$('#hero-custom-image').alt=s.title||'Banner EI! FARMA';$('#hero-custom-mobile').srcset=s.mobile||s.image;
+  $('#hero-custom-image').src=mobileBannerMedia.matches&&s.mobile?s.mobile:s.image;$('#hero-custom-image').alt=s.title||'Banner EI! FARMA';
   if(link){$('#hero-custom-link').href=link;$('#hero-custom-link').target='_blank';$('#hero-custom-link').rel='noopener';}
   else{$('#hero-custom-link').removeAttribute('href');$('#hero-custom-link').removeAttribute('target');}
  }else{
   $('#hero-eyebrow').textContent=s.eyebrow||'';$('#hero-title').textContent=s.title||'';$('#hero-subtitle').textContent=s.subtitle||'';$('#hero-cta').innerHTML=escapeHtml(s.cta||'Ver produtos')+icon('arrow');
  }
- $('#slide-dots').innerHTML=data.slides.map((_,i)=>`<button class="${i===slide?'active':''}" aria-label="Ver campanha ${i+1}" aria-pressed="${i===slide}" data-slide="${i}"></button>`).join('');
+ $('#slide-dots').innerHTML=slides.map((_,i)=>`<button class="${i===slide?'active':''}" aria-label="Ver campanha ${i+1}" aria-pressed="${i===slide}" data-slide="${i}"></button>`).join('');
 }
-function moveSlide(delta){slide=(slide+delta+data.slides.length)%data.slides.length;renderSlide();}
+function moveSlide(delta){const slides=availableSlides();slide=(slide+delta+slides.length)%slides.length;renderSlide();}
 $('#prev-slide').addEventListener('click',()=>moveSlide(-1));$('#next-slide').addEventListener('click',()=>moveSlide(1));
 $('#slide-dots').addEventListener('click',event=>{if(event.target.dataset.slide!==undefined){slide=Number(event.target.dataset.slide);renderSlide();}});
-$('#hero-cta').addEventListener('click',()=>setCategory(data.slides[slide].category||''));
+$('#hero-cta').addEventListener('click',()=>setCategory(availableSlides()[slide].category||''));
+if(mobileBannerMedia.addEventListener)mobileBannerMedia.addEventListener('change',()=>{slide=0;renderSlide();});else mobileBannerMedia.addListener(()=>{slide=0;renderSlide();});
 function renderPause(){$('#pause-slide').textContent=paused?'▶':'Ⅱ';$('#pause-slide').setAttribute('aria-label',paused?'Retomar carrossel':'Pausar carrossel');}
 $('#pause-slide').addEventListener('click',()=>{paused=!paused;renderPause();});
 setInterval(()=>{if(!paused&&!document.hidden&&!$('#hero').matches(':hover')&&!$('#hero').contains(document.activeElement)&&!document.querySelector('dialog[open]'))moveSlide(1);},7000);
