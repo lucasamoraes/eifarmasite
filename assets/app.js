@@ -17,7 +17,7 @@ function medicineDetails(p){
  const warnings=[m.warning,m.symptoms_warning].filter(Boolean);
  return `<div class="medicine-details"><p class="medicine-ingredient">${escapeHtml(m.ingredient)}</p><p>Registro Anvisa: ${escapeHtml(m.registration)}<br>Detentor: ${escapeHtml(m.manufacturer)}</p>${m.indication?`<p><strong>Indicação:</strong> ${escapeHtml(m.indication)}</p>`:''}${m.usage?`<p>${escapeHtml(m.usage)}</p>`:''}${safeUrl(m.leaflet)?`<a href="${escapeHtml(safeUrl(m.leaflet))}" target="_blank" rel="noopener">Leia a bula completa</a>`:''}</div>${warnings.length?`<div class="medicine-warnings">${warnings.map(w=>`<p>${escapeHtml(w)}</p>`).join('')}</div>`:''}`;
 }
-function renderProducts(more=false){
+function renderProducts(more=false,notifyMissing=false){
  if(!more)visibleCount=24;
  let list=data.products.filter(p=>(!category||p.category===category)&&normalize(`${p.name} ${p.brand} ${p.ean}`).includes(normalize(query)));
  if(sort!=='featured')list.sort((a,b)=>a.name.localeCompare(b.name,'pt-BR')*(sort==='az'?1:-1));
@@ -28,12 +28,13 @@ function renderProducts(more=false){
  $('#product-grid').innerHTML=list.slice(0,visibleCount).map(p=>`<article class="product-card ${p.medicine?'medicine-card':''}"><div class="product-image">${safeUrl(p.image)?`<img src="${escapeHtml(safeUrl(p.image))}" alt="${escapeHtml(p.name)}" loading="lazy" referrerpolicy="no-referrer">${safeUrl(p.image_source)?`<a class="source" href="${escapeHtml(safeUrl(p.image_source))}" target="_blank" rel="noopener">Crédito da foto</a>`:''}`:placeholder()}</div><span class="product-brand">${escapeHtml(p.brand)}</span><h3>${escapeHtml(p.name)}</h3><span class="product-category">${escapeHtml(categoryLabel(p.category))}</span>${medicineDetails(p)}<button class="button" data-add="${escapeHtml(p.ean)}" aria-label="Adicionar ${escapeHtml(p.name)} ao carrinho">${icon('plus')} Adicionar ao carrinho</button></article>`).join('');
  $('#product-grid').querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{img.parentNode.innerHTML=placeholder();},{once:true}));
  document.querySelectorAll('#filters [data-category]').forEach(b=>{b.classList.toggle('active',b.dataset.category===category);b.setAttribute('aria-pressed',String(b.dataset.category===category));});
+ if(notifyMissing&&query&&!list.length&&!$('#search-not-found').open)$('#search-not-found').showModal();
 }
 $('#load-more').addEventListener('click',()=>{visibleCount+=24;renderProducts(true);});
 function setCategory(value,scroll=true){category=value;query='';$('#search').value='';renderProducts();if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
 document.querySelectorAll('[data-category]').forEach(button=>button.addEventListener('click',()=>setCategory(button.dataset.category)));
-function searchProducts(value,scroll=false){query=value.trim();category='';$('#search').value=value;renderProducts();if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
-$('#search-form').addEventListener('submit',event=>{event.preventDefault();searchProducts($('#search').value,true);});
+function searchProducts(value,scroll=false,notifyMissing=false){query=value.trim();category='';$('#search').value=value;renderProducts(false,notifyMissing);if(scroll)$('#produtos').scrollIntoView({behavior:'smooth'});}
+$('#search-form').addEventListener('submit',event=>{event.preventDefault();searchProducts($('#search').value,true,true);});
 $('#search').addEventListener('input',()=>searchProducts($('#search').value));
 const macroCategories={'Beleza e cuidados':['Cabelos','Cuidados com a pele','Maquiagem e unhas'],'Higiene':['Corpo e banho','Higiene pessoal','Higiene bucal'],'Fraldas e cuidados':['Fraldas']};
 document.querySelectorAll('[data-macro]').forEach(button=>button.addEventListener('click',()=>{
