@@ -55,6 +55,16 @@ INSERT INTO kids_products(sku,name,presentation,category,age_group,price,old_pri
 ('CHU004','Chupeta Kuka Premium Ortodôntica','Tamanho 2 • 6+ meses','Chupetas & Bicos','6-12',21.99,24.99,'assets/chupeta-kuka.webp',4)
 ON DUPLICATE KEY UPDATE name=VALUES(name),price=VALUES(price),old_price=VALUES(old_price),image=VALUES(image);
 
+UPDATE kids_products SET category='Brinquedos & Mordedores' WHERE category IN ('Brinquedo','Brinquedos');
+UPDATE kids_products SET category='Higiene & Cuidados' WHERE category='Cuidados';
+UPDATE kids_products SET presentation='Tamanho 1 • 0-6 meses' WHERE presentation LIKE 'Tamanho 1%0-6 meses';
+UPDATE kids_products SET presentation='Tamanho 2 • 6+ meses' WHERE presentation LIKE 'Tamanho 2%6+ meses';
+UPDATE kids_products SET presentation='Para bebês • 6+ meses' WHERE LOWER(presentation) LIKE 'para bebês%6+ meses';
+UPDATE kids_products SET presentation='Para bebês' WHERE LOWER(TRIM(presentation))='para bebês';
+UPDATE kids_products SET presentation='4+ meses' WHERE presentation='4 meses';
+DELETE FROM kids_categories WHERE name IN ('Brinquedo','Brinquedos','Cuidados');
+DELETE FROM kids_presentations WHERE name IN ('Tamanho 1 •  0-6 meses','para bebês • 6+ meses','para bebês ','4 meses');
+
 INSERT IGNORE INTO kids_categories(name,sort_order)
 SELECT DISTINCT category,99 FROM kids_products WHERE category<>'';
 INSERT IGNORE INTO kids_presentations(name,sort_order)
